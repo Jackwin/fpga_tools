@@ -45,9 +45,9 @@ target_connector_name: the connector name, such as "J1"
 
 def extract_pin_num(pin_json_file, source_connector_file, target_connector_name):
     pin_list = []
-    print(pin_json_file)
-    print(source_connector_file)
-    print(target_connector_name)
+    # print(pin_json_file)
+    # print(source_connector_file)
+    # print(target_connector_name)
     with open(pin_json_file) as f:
         net_dict = json.load(f)
         for e in source_connector_file:
@@ -58,7 +58,10 @@ def extract_pin_num(pin_json_file, source_connector_file, target_connector_name)
                 # find the target part
                 index = 0
                 for item in node_list:
-                    if target_connector_name in item:
+                    # accurate string match to avoid the case that the connector name is used in BGA location
+                    # For instance, J3 is the connector name, but J32 is the pin location in BGA. If without dot,
+                    # J32 is matched.
+                    if (target_connector_name + '.') in item:
                         pin_num = get_pin_num(node_list[index])
                         # print(pin_num)
                         pin_list.append(pin_num)
@@ -149,10 +152,10 @@ netlist_file = "./mszu9/mszu9-pin.json"
 
 #save_to_json(netlist_file, nets)
 
-part = "J1"
+part = "J4"
 # the netlist from pab layout
-target_brd_filename = "J1"
-index = "1"
+target_brd_filename = "J4"
+index = "2"
 pin_file_path = './mszu9/netlist-2023-2-25'
 #part = "PL_DDR"
 #target_brd_filename = "FPGA"
@@ -166,7 +169,7 @@ target_pin_file = part + "_" + "target" + "_pin_part_" + index + ".txt"
 source_pin_file = os.path.join(pin_file_path, source_pin_file)
 target_pin_file = os.path.join(pin_file_path, target_pin_file)
 brd_net_file = os.path.join(pin_file_path, brd_net_file)
-print(source_pin_file)
+# print(source_pin_file)
 
 source_net_list = []
 with open(source_pin_file, 'r') as f:
@@ -176,24 +179,21 @@ with open(source_pin_file, 'r') as f:
         if not net:
             break
     f.close()
-
+print("Source net list is ")
 print(source_net_list)
 
 #connector_file = os.path.join(pin_file_path, part + ".txt")
-connector_name = "J1"
 source_pin_list = extract_pin_num(
-    netlist_file, source_net_list, connector_name)
+    netlist_file, source_net_list, part)
+print("Source pin is \n")
 print(source_pin_list)
 print(" ---------------- ")
 pin_net_list = parse_brd_net(brd_net_file)
 print(pin_net_list)
 
-print(len(pin_net_list[70]))
-
-
 with open(target_pin_file, 'w') as f:
     for pin in source_pin_list:
-        print(pin)
+        # print(pin)
         if (len(pin_net_list[int(pin)-1]) > 2):
             target_net = pin_net_list[int(pin)-1][2]
         else:

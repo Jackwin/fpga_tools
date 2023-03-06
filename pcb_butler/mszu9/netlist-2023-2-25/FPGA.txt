@@ -1,0 +1,1331 @@
+LISTING: 1 element(s)
+
+       < COMPONENT INSTANCE >
+
+  Reference Designator: U1
+  Package Symbol:       SOC_1156_1MM_IRON_FAN57MM
+
+  Component Class:      IC
+  Device Type:          XCZU9-FFVB1156_FAN57MM_SOC_1156
+    Value:              XCZU9-FFVB1156_FAN57MM
+
+  Placement Status:     PLACED
+    origin-xy:         (0.00 0.00) 
+    rotation:           0.000  degrees
+    not_mirrored
+
+  Function(s):
+    Designator: TF-4316
+    Type:       TYPE38
+    Pin(s):     W17, W18, T17, AD14, AD15...
+
+    Designator: TF-4317
+    Type:       TYPE37
+    Pin(s):     AG13, AG14, AG15, AF15, AE14...
+
+    Designator: TF-4318
+    Type:       TYPE36
+    Pin(s):     B21, C21, A22, A21, A20...
+
+    Designator: TF-4319
+    Type:       TYPE35
+    Pin(s):     B19, B18, C19, C18, A18...
+
+    Designator: TF-4320
+    Type:       TYPE34
+    Pin(s):     B12, C12, D12, E12, E13...
+
+    Designator: TF-4321
+    Type:       TYPE33
+    Pin(s):     H14, J14, G16, H16, J15...
+
+    Designator: TF-4322
+    Type:       TYPE32
+    Pin(s):     AP7, AN7, AK7, AK8, AL7...
+
+    Designator: TF-4323
+    Type:       TYPE31
+    Pin(s):     AF8, AE8, AG6, AF6, AF7...
+
+    Designator: TF-4324
+    Type:       TYPE30
+    Pin(s):     AB5, AB6, Y7, Y8, AA6...
+
+    Designator: TF-4325
+    Type:       TYPE29
+    Pin(s):     T6, T7, R9, R10, R8...
+
+    Designator: TF-4326
+    Type:       TYPE28
+    Pin(s):     A30, T34, P34, N32, M34...
+
+    Designator: TF-4327
+    Type:       TYPE27
+    Pin(s):     L32, K34, H34, F34, L31...
+
+    Designator: TF-4328
+    Type:       TYPE26
+    Pin(s):     E32, D34, C32, B34, E31...
+
+    Designator: TF-4329
+    Type:       TYPE25
+    Pin(s):     A5, T1, P1, M1, L3...
+
+    Designator: TF-4330
+    Type:       TYPE24
+    Pin(s):     K1, J3, H1, F1, K2...
+
+    Designator: TF-4331
+    Type:       TYPE23
+    Pin(s):     D1, C3, B1, A3, D2...
+
+    Designator: TF-4332
+    Type:       TYPE22
+    Pin(s):     AF16, AJ16, AH17, AF17, AJ17...
+
+    Designator: TF-4333
+    Type:       TYPE21
+    Pin(s):     P21, M21, N21, K22, L21...
+
+    Designator: TF-4334
+    Type:       TYPE20
+    Pin(s):     F22, E23, F23, B23, C23...
+
+    Designator: TF-4335
+    Type:       TYPE19
+    Pin(s):     W21, T21, R21, V24, R25...
+
+    Designator: TF-4336
+    Type:       TYPE18
+    Pin(s):     AF27, AF26, AP29, AP30, AL28...
+
+    Designator: TF-4337
+    Type:       TYPE17
+    Pin(s):     AA28, AA27, W28, W27, U28...
+
+    Designator: TF-4338
+    Type:       TYPE16
+    Pin(s):     F28, G29, H27, L29, P28...
+
+    Designator: TF-4339
+    Type:       TYPE15
+    Pin(s):     A10, B8, C6, D7, E5...
+
+    Designator: TF-4340
+    Type:       TYPE14
+    Pin(s):     B31, C29, D32, E30, F31...
+
+    Designator: TF-4341
+    Type:       TYPE13
+    Pin(s):     B3, D4, F3, H4, J5...
+
+    Designator: TF-4342
+    Type:       TYPE12
+    Pin(s):     K28, M27
+
+    Designator: TF-4343
+    Type:       TYPE11
+    Pin(s):     F8, H7
+
+    Designator: TF-4344
+    Type:       TYPE10
+    Pin(s):     T14, U14
+
+    Designator: TF-4345
+    Type:       TYPE9
+    Pin(s):     U13, V13, V14
+
+    Designator: TF-4346
+    Type:       TYPE8
+    Pin(s):     AA15, AA17, AA19, AB16, AB18...
+
+    Designator: TF-4347
+    Type:       TYPE7
+    Pin(s):     AB14, AC14, W14, Y14
+
+    Designator: TF-4348
+    Type:       TYPE6
+    Pin(s):     AA13, AB13, AC13, Y13
+
+    Designator: TF-4349
+    Type:       TYPE5
+    Pin(s):     AA29, V28, W30, Y27
+
+    Designator: TF-4350
+    Type:       TYPE4
+    Pin(s):     AB32, V32, Y31
+
+    Designator: TF-4351
+    Type:       TYPE3
+    Pin(s):     AB24, AC25, AB25, AC26, AA23...
+
+    Designator: TF-4352
+    Type:       TYPE2
+    Pin(s):     A1, A11, A14, A19, A2...
+
+    Designator: TF-4353
+    Type:       TYPE1
+    Pin(s):     F7, F9, G1, G2, G26...
+
+  Properties attached to component definition
+    VALUE             = XCZU9-FFVB1156_FAN57MM
+
+  Pin IO Information:
+    Pin     Type      SigNoise Model          Net
+    ---     ----      --------------          ---
+    A1      POWER                             GND
+    A2      POWER                             GND
+    A3      BI        CDSDefaultIO_2p5v       MGTHRX3_230_N
+    A4      BI        CDSDefaultIO_2p5v       MGTHRX3_230_P
+    A5      BI        CDSDefaultIO_2p5v       N20688695
+    A6      BI        CDSDefaultIO_2p5v       FPGA_MGTAVTT
+    A7      BI        CDSDefaultIO_2p5v       MGTHTX3_230_N
+    A8      BI        CDSDefaultIO_2p5v       MGTHTX3_230_P
+    A9      POWER                             GND
+    A10     POWER                             FPGA_MGTAVCC
+    A11     POWER                             GND
+    A12     BI        CDSDefaultIO_2p5v       BANK49_IO_L9N
+    A13     BI        CDSDefaultIO_2p5v       BANK49_IO_L9P
+    A14     POWER                             GND
+    A15     BI        CDSDefaultIO_2p5v       BANK49_IO_L4N
+    A16     BI        CDSDefaultIO_2p5v       BANK49_IO_L3N
+    A17     BI        CDSDefaultIO_2p5v       BANK48_IO_L12P
+    A18     BI        CDSDefaultIO_2p5v       BANK48_IO_L12N
+    A19     POWER                             GND
+    A20     BI        CDSDefaultIO_2p5v       BANK47_IO_L12N
+    A21     BI        CDSDefaultIO_2p5v       BANK47_IO_L11P
+    A22     BI        CDSDefaultIO_2p5v       BANK47_IO_L11N
+    A23     BI        CDSDefaultIO_2p5v       OTG_DATA1
+    A24     POWER                             GND
+    A25     BI        CDSDefaultIO_2p5v       PHY_TXCK
+    A26     BI        CDSDefaultIO_2p5v       PHY_TXD0
+    A27     BI        CDSDefaultIO_2p5v       PHY_TXD1
+    A28     POWER                             GND
+    A29     BI        CDSDefaultIO_2p5v       FPGA_MGTAVTT
+    A30     BI        CDSDefaultIO_2p5v       N19753109
+    A31     BI        CDSDefaultIO_2p5v       MGTHTX3_130_P
+    A32     BI        CDSDefaultIO_2p5v       MGTHTX3_130_N
+    A33     POWER                             GND
+    A34     POWER                             GND
+    AA1     BI        CDSDefaultIO_2p5v       BANK66_IO_L21N
+    AA2     BI        CDSDefaultIO_2p5v       BANK66_IO_L21P
+    AA3     BI        CDSDefaultIO_2p5v       BANK66_IO_T2U_N12
+    AA4     POWER                             GND
+    AA5     BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L14N
+    AA6     BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L12N
+    AA7     BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L12P
+    AA8     BI        CDSDefaultIO_2p5v       BANK66_IO_T1U_N12
+    AA9     POWER                             VCCO_HP_BANK66
+    AA10    BI        CDSDefaultIO_2p5v       BANK66_IO_L3N
+    AA11    BI        CDSDefaultIO_2p5v       BANK66_IO_L3P
+    AA12    BI        CDSDefaultIO_2p5v       BANK66_IO_L5N
+    AA13    POWER                             FPGA_VCCINT
+    AA14    POWER                             GND
+    AA15    POWER                             FPGA_VCCINT
+    AA16    POWER                             GND
+    AA17    POWER                             FPGA_VCCINT
+    AA18    POWER                             GND
+    AA19    POWER                             FPGA_VCCINT
+    AA20    POWER                             GND
+    AA21    POWER                             VCCPINT
+    AA22    POWER                             VCC_PSBATT
+    AA23    POWER                             FPGA_VCCAUX
+    AA24    POWER                             GND
+    AA25    POWER                             FPGA_VCCAUX
+    AA26    POWER                             GND
+    AA27    BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK0_P
+    AA28    BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK0_N
+    AA29    POWER                             FPGA_MGTAVCC
+    AA30    POWER                             GND
+    AA31    BI        CDSDefaultIO_2p5v       PS_MGTRRX1_P
+    AA32    BI        CDSDefaultIO_2p5v       PS_MGTRRX1_N
+    AA33    POWER                             GND
+    AA34    POWER                             GND
+    AB1     BI        CDSDefaultIO_2p5v       BANK66_IO_T3U_N12
+    AB2     POWER                             GND
+    AB3     BI        CDSDefaultIO_2p5v       BANK66_IO_L20P
+    AB4     BI        CDSDefaultIO_2p5v       BANK66_IO_L16P
+    AB5     BI        CDSDefaultIO_2p5v       BANK66_IO_L10N
+    AB6     BI        CDSDefaultIO_2p5v       BANK66_IO_L10P
+    AB7     POWER                             GND
+    AB8     BI        CDSDefaultIO_2p5v       BANK66_IO_L8P
+    AB9     BI        CDSDefaultIO_2p5v       BANK66_IO_L4P
+    AB10    BI        CDSDefaultIO_2p5v       BANK66_IO_L2N
+    AB11    BI        CDSDefaultIO_2p5v       BANK66_IO_L2P
+    AB12    POWER                             GND
+    AB13    POWER                             FPGA_VCCINT
+    AB14    POWER                             FPGA_VCCINT
+    AB15    POWER                             GND
+    AB16    POWER                             FPGA_VCCINT
+    AB17    POWER                             GND
+    AB18    POWER                             FPGA_VCCINT
+    AB19    POWER                             GND
+    AB20    POWER                             FPGA_VCCINT
+    AB21    POWER                             VCCPINT
+    AB22    POWER                             GND
+    AB23    POWER                             VCCPINT
+    AB24    POWER                             N18773276
+    AB25    POWER                             VCC_PSADC
+    AB26    POWER                             GND
+    AB27    POWER                             GND
+    AB28    BI        CDSDefaultIO_2p5v       N18894547
+    AB29    BI        CDSDefaultIO_2p5v       PS_MGTRTX0_P
+    AB30    BI        CDSDefaultIO_2p5v       PS_MGTRTX0_N
+    AB31    POWER                             GND
+    AB32    POWER                             FPGA_MGTAVTT
+    AB33    BI        CDSDefaultIO_2p5v       PS_MGTRRX0_P
+    AB34    BI        CDSDefaultIO_2p5v       PS_MGTRRX0_N
+    AC1     BI        CDSDefaultIO_2p5v       BANK66_IO_L19N
+    AC2     BI        CDSDefaultIO_2p5v       BANK66_IO_L19P
+    AC3     BI        CDSDefaultIO_2p5v       BANK66_IO_L20N
+    AC4     BI        CDSDefaultIO_2p5v       BANK66_IO_L16N
+    AC5     POWER                             GND
+    AC6     BI        CDSDefaultIO_2p5v       BANK66_IO_L7N
+    AC7     BI        CDSDefaultIO_2p5v       BANK66_IO_L7P
+    AC8     BI        CDSDefaultIO_2p5v       BANK66_IO_L8N
+    AC9     BI        CDSDefaultIO_2p5v       BANK66_IO_L4N
+    AC10    POWER                             GND
+    AC11    BI        CDSDefaultIO_2p5v       BANK66_IO_L1N
+    AC12    BI        CDSDefaultIO_2p5v       BANK66_IO_L1P
+    AC13    POWER                             FPGA_VCCINT
+    AC14    POWER                             FPGA_VCCINT
+    AC15    POWER                             FPGA_VCCINT
+    AC16    POWER                             GND
+    AC17    POWER                             FPGA_VCCINT
+    AC18    POWER                             GND
+    AC19    POWER                             FPGA_VCCINT
+    AC20    POWER                             GND
+    AC21    POWER                             VCCPINT
+    AC22    POWER                             VCCPINT
+    AC23    POWER                             VCCPINT
+    AC24    POWER                             VCCPINT
+    AC25    POWER                             N18773276
+    AC26    POWER                             VCC_PSADC
+    AC27    POWER                             GND
+    AC28    POWER                             GND
+    AC29    POWER                             GND
+    AC30    POWER                             GND
+    AC31    POWER                             GND
+    AC32    POWER                             GND
+    AC33    POWER                             GND
+    AC34    POWER                             GND
+    AD1     BI        CDSDefaultIO_2p5v       PL_DDR_DQ6
+    AD2     BI        CDSDefaultIO_2p5v       PL_DDR_DQ4
+    AD3     POWER                             GND
+    AD4     BI        CDSDefaultIO_2p5v       PL_DDR_DQ12
+    AD5     BI        CDSDefaultIO_2p5v       
+    AD6     BI        CDSDefaultIO_2p5v       PL_DDR_DQ22
+    AD7     BI        CDSDefaultIO_2p5v       PL_DDR_DQ23
+    AD8     POWER                             DDR_VCC1V2
+    AD9     BI        CDSDefaultIO_2p5v       VRP_65
+    AD10    BI        CDSDefaultIO_2p5v       PL_DDR_DQ26
+    AD11    BI        CDSDefaultIO_2p5v       VREF_65
+    AD12    BI        CDSDefaultIO_2p5v       VCCO_HP_BANK66
+    AD13    POWER                             GND
+    AD14    BI        CDSDefaultIO_2p5v       GND
+    AD15    BI        CDSDefaultIO_2p5v       N18767429
+    AD16    BI        CDSDefaultIO_2p5v       QSPI_LWR_DQ2
+    AD17    BI        CDSDefaultIO_2p5v       QSPI_UPR_CSB
+    AD18    BI        CDSDefaultIO_2p5v       EMMC_D7
+    AD19    BI        CDSDefaultIO_2p5v       EMMC_RSTN
+    AD20    BI        CDSDefaultIO_2p5v       N20605929
+    AD21    POWER                             VCCPINT
+    AD22    POWER                             VCCPINT
+    AD23    POWER                             GND
+    AD24    POWER                             VCCPINT
+    AD25    POWER                             VCCPINT
+    AD26    POWER                             VCCPINT
+    AD27    BI        CDSDefaultIO_2p5v       PS_DDR_DQ44
+    AD28    BI        CDSDefaultIO_2p5v       PS_DDR_DQ42
+    AD29    BI        CDSDefaultIO_2p5v       PS_DDR_DQ45
+    AD30    BI        CDSDefaultIO_2p5v       PS_DDR_DQ41
+    AD31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ63
+    AD32    BI        CDSDefaultIO_2p5v       PS_DDR_DQ61
+    AD33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ59
+    AD34    BI        CDSDefaultIO_2p5v       PS_DDR_DQ57
+    AE1     BI        CDSDefaultIO_2p5v       PL_DDR_DQ2
+    AE2     BI        CDSDefaultIO_2p5v       PL_DDR_DQ0
+    AE3     BI        CDSDefaultIO_2p5v       PL_DDR_DQ8
+    AE4     BI        CDSDefaultIO_2p5v       PL_DDR_DQ10
+    AE5     BI        CDSDefaultIO_2p5v       
+    AE6     POWER                             GND
+    AE7     BI        CDSDefaultIO_2p5v       PL_DDR_DQ20
+    AE8     BI        CDSDefaultIO_2p5v       PL_DDR_DQS2_P
+    AE9     BI        CDSDefaultIO_2p5v       PL_DDR_DQ28
+    AE10    BI        CDSDefaultIO_2p5v       PL_DDR_DM3
+    AE11    POWER                             GND
+    AE12    BI        CDSDefaultIO_2p5v       PL_DDR_DQ31
+    AE13    BI        CDSDefaultIO_2p5v       BANK44_IO_L9P
+    AE14    BI        CDSDefaultIO_2p5v       BANK44_IO_L12N
+    AE15    BI        CDSDefaultIO_2p5v       BANK44_IO_L12P
+    AE16    POWER                             FPGA_VCC1V8
+    AE17    BI        CDSDefaultIO_2p5v       QSPI_UPR_DQ0
+    AE18    BI        CDSDefaultIO_2p5v       EMMC_D5
+    AE19    BI        CDSDefaultIO_2p5v       PS_I2C0_SDA
+    AE20    BI        CDSDefaultIO_2p5v       PS_I2C0_SCL
+    AE21    POWER                             GND
+    AE22    POWER                             VCCPINT
+    AE23    POWER                             VCCPINT
+    AE24    POWER                             VCCPINT
+    AE25    POWER                             VCCPINT
+    AE26    POWER                             GND
+    AE27    BI        CDSDefaultIO_2p5v       PS_DDR_DQ40
+    AE28    BI        CDSDefaultIO_2p5v       PS_DDR_DQS5_P
+    AE29    BI        CDSDefaultIO_2p5v       PS_DDR_DQS5_N
+    AE30    BI        CDSDefaultIO_2p5v       PS_DDR_DM5
+    AE31    POWER                             GND
+    AE32    BI        CDSDefaultIO_2p5v       PS_DDR_DQS7_P
+    AE33    BI        CDSDefaultIO_2p5v       PS_DDR_DQS7_N
+    AE34    BI        CDSDefaultIO_2p5v       PS_DDR_DM7
+    AF1     BI        CDSDefaultIO_2p5v       PL_DDR_DQ7
+    AF2     BI        CDSDefaultIO_2p5v       PL_DDR_DQ3
+    AF3     BI        CDSDefaultIO_2p5v       PL_DDR_DQ14
+    AF4     POWER                             GND
+    AF5     BI        CDSDefaultIO_2p5v       PL_DDR_DM1
+    AF6     BI        CDSDefaultIO_2p5v       PL_DDR_DQ16
+    AF7     BI        CDSDefaultIO_2p5v       PL_DDR_DQ21
+    AF8     BI        CDSDefaultIO_2p5v       PL_DDR_DQS2_N
+    AF9     POWER                             DDR_VCC1V2
+    AF10    BI        CDSDefaultIO_2p5v       
+    AF11    BI        CDSDefaultIO_2p5v       PL_DDR_DQS3_P
+    AF12    BI        CDSDefaultIO_2p5v       PL_DDR_DQ29
+    AF13    BI        CDSDefaultIO_2p5v       BANK44_IO_L9N
+    AF14    POWER                             VCCO_HD_BANK44
+    AF15    BI        CDSDefaultIO_2p5v       BANK44_IO_L11P
+    AF16    BI        CDSDefaultIO_2p5v       QSPI_LWR_CLK
+    AF17    BI        CDSDefaultIO_2p5v       QSPI_UPR_DQ3
+    AF18    BI        CDSDefaultIO_2p5v       EMMC_CMD
+    AF19    POWER                             GND
+    AF20    BI        CDSDefaultIO_2p5v       PS_DDR_PARITY
+    AF21    BI        CDSDefaultIO_2p5v       PS_DDR_RAM_RST_N
+    AF22    BI        CDSDefaultIO_2p5v       PS_DDR_ALERT_N
+    AF23    BI        CDSDefaultIO_2p5v       N18824836
+    AF24    POWER                             GND
+    AF25    BI        CDSDefaultIO_2p5v       
+    AF26    BI        CDSDefaultIO_2p5v       
+    AF27    BI        CDSDefaultIO_2p5v       
+    AF28    BI        CDSDefaultIO_2p5v       PS_DDR_DQ46
+    AF29    POWER                             GND
+    AF30    BI        CDSDefaultIO_2p5v       PS_DDR_DQ47
+    AF31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ43
+    AF32    BI        CDSDefaultIO_2p5v       PS_DDR_DQ58
+    AF33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ62
+    AF34    POWER                             GND
+    AG1     BI        CDSDefaultIO_2p5v       
+    AG2     POWER                             GND
+    AG3     BI        CDSDefaultIO_2p5v       PL_DDR_DQ1
+    AG4     BI        CDSDefaultIO_2p5v       PL_DDR_DQ11
+    AG5     BI        CDSDefaultIO_2p5v       PL_DDR_DQ15
+    AG6     BI        CDSDefaultIO_2p5v       PL_DDR_DQ18
+    AG7     POWER                             DDR_VCC1V2
+    AG8     BI        CDSDefaultIO_2p5v       PL_DDR_DQ19
+    AG9     BI        CDSDefaultIO_2p5v       PL_DDR_DQ24
+    AG10    BI        CDSDefaultIO_2p5v       PL_DDR_DQ30
+    AG11    BI        CDSDefaultIO_2p5v       PL_DDR_DQS3_N
+    AG12    POWER                             GND
+    AG13    BI        CDSDefaultIO_2p5v       BANK44_IO_L10N
+    AG14    BI        CDSDefaultIO_2p5v       BANK44_IO_L10P
+    AG15    BI        CDSDefaultIO_2p5v       BANK44_IO_L11N
+    AG16    BI        CDSDefaultIO_2p5v       QSPI_LWR_DQ3
+    AG17    POWER                             FPGA_VCC1V8
+    AG18    BI        CDSDefaultIO_2p5v       PS_DDR_DQ22
+    AG19    BI        CDSDefaultIO_2p5v       PS_DDR_DQ20
+    AG20    BI        CDSDefaultIO_2p5v       PS_DDR_DQ16
+    AG21    BI        CDSDefaultIO_2p5v       PS_DDR_DQ24
+    AG22    POWER                             GND
+    AG23    BI        CDSDefaultIO_2p5v       PS_DDR_DQ26
+    AG24    BI        CDSDefaultIO_2p5v       PS_DDR_DQ28
+    AG25    BI        CDSDefaultIO_2p5v       PS_DDR_ACT_N
+    AG26    BI        CDSDefaultIO_2p5v       PS_DDR_BA1
+    AG27    POWER                             PS_VCC1V2
+    AG28    BI        CDSDefaultIO_2p5v       PS_DDR_DQ36
+    AG29    BI        CDSDefaultIO_2p5v       PS_DDR_DQ32
+    AG30    BI        CDSDefaultIO_2p5v       PS_DDR_DQ33
+    AG31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ37
+    AG32    POWER                             GND
+    AG33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ60
+    AG34    BI        CDSDefaultIO_2p5v       PS_DDR_DQ56
+    AH1     BI        CDSDefaultIO_2p5v       PL_DDR_DQS0_P
+    AH2     BI        CDSDefaultIO_2p5v       PL_DDR_DM0
+    AH3     BI        CDSDefaultIO_2p5v       PL_DDR_DQ5
+    AH4     BI        CDSDefaultIO_2p5v       PL_DDR_DQ13
+    AH5     POWER                             GND
+    AH6     BI        CDSDefaultIO_2p5v       
+    AH7     BI        CDSDefaultIO_2p5v       PL_DDR_DM2
+    AH8     BI        CDSDefaultIO_2p5v       PL_DDR_DQ17
+    AH9     BI        CDSDefaultIO_2p5v       
+    AH10    POWER                             GND
+    AH11    BI        CDSDefaultIO_2p5v       PL_DDR_DQ27
+    AH12    BI        CDSDefaultIO_2p5v       PL_DDR_DQ25
+    AH13    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L7N
+    AH14    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L7P
+    AH15    POWER                             GND
+    AH16    BI        CDSDefaultIO_2p5v       QSPI_LWR_DQ0
+    AH17    BI        CDSDefaultIO_2p5v       QSPI_UPR_DQ2
+    AH18    BI        CDSDefaultIO_2p5v       PS_DDR_DQ18
+    AH19    BI        CDSDefaultIO_2p5v       PS_DDR_DQS2_P
+    AH20    POWER                             GND
+    AH21    BI        CDSDefaultIO_2p5v       PS_DDR_DQ30
+    AH22    BI        CDSDefaultIO_2p5v       PS_DDR_DQS3_P
+    AH23    BI        CDSDefaultIO_2p5v       PS_DDR_DQS3_N
+    AH24    BI        CDSDefaultIO_2p5v       PS_DDR_DM3
+    AH25    POWER                             GND
+    AH26    BI        CDSDefaultIO_2p5v       PS_DDR_BA0
+    AH27    BI        CDSDefaultIO_2p5v       
+    AH28    BI        CDSDefaultIO_2p5v       PS_DDR_DQS4_P
+    AH29    BI        CDSDefaultIO_2p5v       PS_DDR_DQS4_N
+    AH30    POWER                             GND
+    AH31    BI        CDSDefaultIO_2p5v       PS_DDR_DM4
+    AH32    BI        CDSDefaultIO_2p5v       PS_DDR_DQ50
+    AH33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ48
+    AH34    BI        CDSDefaultIO_2p5v       PS_DDR_DQ52
+    AJ1     BI        CDSDefaultIO_2p5v       PL_DDR_DQS0_N
+    AJ2     BI        CDSDefaultIO_2p5v       
+    AJ3     POWER                             GND
+    AJ4     BI        CDSDefaultIO_2p5v       PL_DDR_DQ9
+    AJ5     BI        CDSDefaultIO_2p5v       PL_DDR_DQS1_N
+    AJ6     BI        CDSDefaultIO_2p5v       PL_DDR_DQS1_P
+    AJ7     BI        CDSDefaultIO_2p5v       PL_DDR_RAS_A16
+    AJ8     POWER                             DDR_VCC1V2
+    AJ9     BI        CDSDefaultIO_2p5v       
+    AJ10    BI        CDSDefaultIO_2p5v       
+    AJ11    BI        CDSDefaultIO_2p5v       VREF_64
+    AJ12    BI        CDSDefaultIO_2p5v       
+    AJ13    POWER                             VCCO_HD_BANK44
+    AJ14    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L8N
+    AJ15    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L8P
+    AJ16    BI        CDSDefaultIO_2p5v       QSPI_LWR_DQ1
+    AJ17    BI        CDSDefaultIO_2p5v       QSPI_UPR_CLK
+    AJ18    POWER                             GND
+    AJ19    BI        CDSDefaultIO_2p5v       PS_DDR_DQS2_N
+    AJ20    BI        CDSDefaultIO_2p5v       PS_DDR_DQ19
+    AJ21    BI        CDSDefaultIO_2p5v       PS_DDR_DQ27
+    AJ22    BI        CDSDefaultIO_2p5v       PS_DDR_DQ29
+    AJ23    POWER                             GND
+    AJ24    POWER                             PS_VCC1V2
+    AJ25    BI        CDSDefaultIO_2p5v       PS_DDR_A12
+    AJ26    BI        CDSDefaultIO_2p5v       
+    AJ27    BI        CDSDefaultIO_2p5v       
+    AJ28    POWER                             PS_VCC1V2
+    AJ29    BI        CDSDefaultIO_2p5v       PS_DDR_DQ38
+    AJ30    BI        CDSDefaultIO_2p5v       PS_DDR_DQ35
+    AJ31    BI        CDSDefaultIO_2p5v       PS_DDR_DM6
+    AJ32    BI        CDSDefaultIO_2p5v       PS_DDR_DQS6_P
+    AJ33    POWER                             GND
+    AJ34    BI        CDSDefaultIO_2p5v       PS_DDR_DQ54
+    AK1     BI        CDSDefaultIO_2p5v       PL_DDR_A10
+    AK2     BI        CDSDefaultIO_2p5v       PL_DDR_A13
+    AK3     BI        CDSDefaultIO_2p5v       PL_DDR_A12
+    AK4     BI        CDSDefaultIO_2p5v       PL_DDR_A1
+    AK5     BI        CDSDefaultIO_2p5v       PL_DDR_A0
+    AK6     POWER                             GND
+    AK7     BI        CDSDefaultIO_2p5v       PL_SYS_CLK_N
+    AK8     BI        CDSDefaultIO_2p5v       PL_SYS_CLK_P
+    AK9     BI        CDSDefaultIO_2p5v       
+    AK10    BI        CDSDefaultIO_2p5v       
+    AK11    POWER                             DDR_VCC1V2
+    AK12    BI        CDSDefaultIO_2p5v       
+    AK13    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L6P
+    AK14    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L5N
+    AK15    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L5P
+    AK16    POWER                             FPGA_VCC1V8
+    AK17    BI        CDSDefaultIO_2p5v       EMMC_D0
+    AK18    BI        CDSDefaultIO_2p5v       PS_DDR_DQ17
+    AK19    BI        CDSDefaultIO_2p5v       PS_DDR_DM2
+    AK20    BI        CDSDefaultIO_2p5v       PS_DDR_DQ21
+    AK21    POWER                             GND
+    AK22    BI        CDSDefaultIO_2p5v       PS_DDR_DQ25
+    AK23    BI        CDSDefaultIO_2p5v       PS_DDR_DQ31
+    AK24    BI        CDSDefaultIO_2p5v       PS_DDR_CAS_A15
+    AK25    BI        CDSDefaultIO_2p5v       PS_DDR_WE_A14
+    AK26    POWER                             GND
+    AK27    BI        CDSDefaultIO_2p5v       PS_DDR_A11
+    AK28    BI        CDSDefaultIO_2p5v       PS_DDR_BG0
+    AK29    BI        CDSDefaultIO_2p5v       PS_DDR_DQ34
+    AK30    BI        CDSDefaultIO_2p5v       PS_DDR_DQ39
+    AK31    POWER                             GND
+    AK32    BI        CDSDefaultIO_2p5v       PS_DDR_DQS6_N
+    AK33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ49
+    AK34    BI        CDSDefaultIO_2p5v       PS_DDR_DQ51
+    AL1     BI        CDSDefaultIO_2p5v       PL_DDR_A11
+    AL2     BI        CDSDefaultIO_2p5v       PL_DDR_A9
+    AL3     BI        CDSDefaultIO_2p5v       PL_DDR_A8
+    AL4     POWER                             GND
+    AL5     BI        CDSDefaultIO_2p5v       PL_DDR_WE_A14
+    AL6     BI        CDSDefaultIO_2p5v       PL_DDR_CAS_A15
+    AL7     BI        CDSDefaultIO_2p5v       
+    AL8     BI        CDSDefaultIO_2p5v       
+    AL9     POWER                             DDR_VCC1V2
+    AL10    BI        CDSDefaultIO_2p5v       
+    AL11    BI        CDSDefaultIO_2p5v       
+    AL12    BI        CDSDefaultIO_2p5v       BANK44_GC_IO_L6N
+    AL13    BI        CDSDefaultIO_2p5v       BANK44_IO_L4P
+    AL14    POWER                             GND
+    AL15    BI        CDSDefaultIO_2p5v       
+    AL16    BI        CDSDefaultIO_2p5v       EMMC_D1
+    AL17    BI        CDSDefaultIO_2p5v       EMMC_D6
+    AL18    BI        CDSDefaultIO_2p5v       PS_DDR_DQ6
+    AL19    POWER                             GND
+    AL20    BI        CDSDefaultIO_2p5v       PS_DDR_DQ23
+    AL21    BI        CDSDefaultIO_2p5v       PS_DDR_DQ12
+    AL22    BI        CDSDefaultIO_2p5v       PS_DDR_DQ10
+    AL23    BI        CDSDefaultIO_2p5v       PS_DDR_DQ15
+    AL24    POWER                             PS_VCC1V2
+    AL25    BI        CDSDefaultIO_2p5v       PS_DDR_A13
+    AL26    BI        CDSDefaultIO_2p5v       
+    AL27    BI        CDSDefaultIO_2p5v       
+    AL28    BI        CDSDefaultIO_2p5v       PS_DDR_A10
+    AL29    POWER                             PS_VCC1V2
+    AL30    BI        CDSDefaultIO_2p5v       
+    AL31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ53
+    AL32    BI        CDSDefaultIO_2p5v       PS_DDR_DQ55
+    AL33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ71
+    AL34    POWER                             GND
+    AM1     BI        CDSDefaultIO_2p5v       PL_DDR_A6
+    AM2     POWER                             GND
+    AM3     BI        CDSDefaultIO_2p5v       PL_DDR_ACT_N
+    AM4     BI        CDSDefaultIO_2p5v       PL_DDR_BA0
+    AM5     BI        CDSDefaultIO_2p5v       PL_DDR_CK0_N
+    AM6     BI        CDSDefaultIO_2p5v       PL_DDR_CK0_P
+    AM7     POWER                             GND
+    AM8     BI        CDSDefaultIO_2p5v       
+    AM9     BI        CDSDefaultIO_2p5v       
+    AM10    BI        CDSDefaultIO_2p5v       
+    AM11    BI        CDSDefaultIO_2p5v       
+    AM12    POWER                             GND
+    AM13    BI        CDSDefaultIO_2p5v       BANK44_IO_L4N
+    AM14    BI        CDSDefaultIO_2p5v       BANK44_IO_L2P
+    AM15    BI        CDSDefaultIO_2p5v       QSPI_LWR_CSB
+    AM16    BI        CDSDefaultIO_2p5v       EMMC_D3
+    AM17    POWER                             GND
+    AM18    BI        CDSDefaultIO_2p5v       PS_DDR_DQ4
+    AM19    BI        CDSDefaultIO_2p5v       PS_DDR_DQ5
+    AM20    BI        CDSDefaultIO_2p5v       PS_DDR_DQ7
+    AM21    BI        CDSDefaultIO_2p5v       PS_DDR_DM1
+    AM22    POWER                             GND
+    AM23    BI        CDSDefaultIO_2p5v       PS_DDR_DQ9
+    AM24    BI        CDSDefaultIO_2p5v       PS_DDR_RAS_A16
+    AM25    BI        CDSDefaultIO_2p5v       PS_DDR_A9
+    AM26    BI        CDSDefaultIO_2p5v       PS_DDR_A8
+    AM27    POWER                             GND
+    AM28    BI        CDSDefaultIO_2p5v       PS_DDR_A7
+    AM29    BI        CDSDefaultIO_2p5v       PS_DDR_A6
+    AM30    BI        CDSDefaultIO_2p5v       PS_DDR_ODT0
+    AM31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ65
+    AM32    POWER                             GND
+    AM33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ67
+    AM34    BI        CDSDefaultIO_2p5v       PS_DDR_DQ69
+    AN1     BI        CDSDefaultIO_2p5v       PL_DDR_A7
+    AN2     BI        CDSDefaultIO_2p5v       PL_DDR_A2
+    AN3     BI        CDSDefaultIO_2p5v       PL_DDR_A4
+    AN4     BI        CDSDefaultIO_2p5v       PL_DDR_CKE
+    AN5     POWER                             GND
+    AN6     BI        CDSDefaultIO_2p5v       PL_DDR_BA1
+    AN7     BI        CDSDefaultIO_2p5v       
+    AN8     BI        CDSDefaultIO_2p5v       
+    AN9     BI        CDSDefaultIO_2p5v       
+    AN10    POWER                             GND
+    AN11    BI        CDSDefaultIO_2p5v       VRP_64
+    AN12    BI        CDSDefaultIO_2p5v       BANK44_IO_L3P
+    AN13    BI        CDSDefaultIO_2p5v       BANK44_IO_L2N
+    AN14    BI        CDSDefaultIO_2p5v       BANK44_IO_L1P
+    AN15    POWER                             GND
+    AN16    BI        CDSDefaultIO_2p5v       EMMC_D2
+    AN17    BI        CDSDefaultIO_2p5v       PS_DDR_DM0
+    AN18    BI        CDSDefaultIO_2p5v       PS_DDR_DQS0_P
+    AN19    BI        CDSDefaultIO_2p5v       PS_DDR_DQS0_N
+    AN20    POWER                             GND
+    AN21    BI        CDSDefaultIO_2p5v       PS_DDR_DQS1_P
+    AN22    BI        CDSDefaultIO_2p5v       PS_DDR_DQS1_N
+    AN23    BI        CDSDefaultIO_2p5v       PS_DDR_DQ11
+    AN24    BI        CDSDefaultIO_2p5v       PS_DDR_A5
+    AN25    POWER                             PS_VCC1V2
+    AN26    BI        CDSDefaultIO_2p5v       PS_DDR_CK0_P
+    AN27    BI        CDSDefaultIO_2p5v       PS_DDR_CK0_N
+    AN28    BI        CDSDefaultIO_2p5v       PS_DDR_CS0_N
+    AN29    BI        CDSDefaultIO_2p5v       PS_DDR_CKE0
+    AN30    POWER                             PS_VCC1V2
+    AN31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ68
+    AN32    BI        CDSDefaultIO_2p5v       PS_DDR_DQS8_P
+    AN33    BI        CDSDefaultIO_2p5v       PS_DDR_DQS8_N
+    AN34    BI        CDSDefaultIO_2p5v       PS_DDR_DM8
+    AP1     BI        CDSDefaultIO_2p5v       PL_DDR_RST_N
+    AP2     BI        CDSDefaultIO_2p5v       PL_DDR_A3
+    AP3     BI        CDSDefaultIO_2p5v       PL_DDR_A5
+    AP4     BI        CDSDefaultIO_2p5v       PL_DDR_CS_N
+    AP5     BI        CDSDefaultIO_2p5v       PL_DDR_ODT
+    AP6     BI        CDSDefaultIO_2p5v       PL_DDR_BG0
+    AP7     BI        CDSDefaultIO_2p5v       
+    AP8     BI        CDSDefaultIO_2p5v       
+    AP9     BI        CDSDefaultIO_2p5v       
+    AP10    BI        CDSDefaultIO_2p5v       
+    AP11    BI        CDSDefaultIO_2p5v       
+    AP12    BI        CDSDefaultIO_2p5v       BANK44_IO_L3N
+    AP13    POWER                             GND
+    AP14    BI        CDSDefaultIO_2p5v       BANK44_IO_L1N
+    AP15    BI        CDSDefaultIO_2p5v       QSPI_UPR_DQ1
+    AP16    BI        CDSDefaultIO_2p5v       EMMC_D4
+    AP17    BI        CDSDefaultIO_2p5v       PS_DDR_DQ0
+    AP18    BI        CDSDefaultIO_2p5v       PS_DDR_DQ2
+    AP19    BI        CDSDefaultIO_2p5v       PS_DDR_DQ3
+    AP20    BI        CDSDefaultIO_2p5v       PS_DDR_DQ1
+    AP21    BI        CDSDefaultIO_2p5v       PS_DDR_DQ8
+    AP22    BI        CDSDefaultIO_2p5v       PS_DDR_DQ14
+    AP23    POWER                             GND
+    AP24    BI        CDSDefaultIO_2p5v       PS_DDR_DQ13
+    AP25    BI        CDSDefaultIO_2p5v       PS_DDR_A4
+    AP26    BI        CDSDefaultIO_2p5v       PS_DDR_A2
+    AP27    BI        CDSDefaultIO_2p5v       PS_DDR_A3
+    AP28    POWER                             GND
+    AP29    BI        CDSDefaultIO_2p5v       PS_DDR_A0
+    AP30    BI        CDSDefaultIO_2p5v       PS_DDR_A1
+    AP31    BI        CDSDefaultIO_2p5v       PS_DDR_DQ70
+    AP32    BI        CDSDefaultIO_2p5v       PS_DDR_DQ64
+    AP33    BI        CDSDefaultIO_2p5v       PS_DDR_DQ66
+    AP34    POWER                             GND
+    B1      BI        CDSDefaultIO_2p5v       MGTHRX2_230_N
+    B2      BI        CDSDefaultIO_2p5v       MGTHRX2_230_P
+    B3      POWER                             FPGA_MGTAVTT
+    B4      POWER                             GND
+    B5      BI        CDSDefaultIO_2p5v       MGTHTX2_230_N
+    B6      BI        CDSDefaultIO_2p5v       MGTHTX2_230_P
+    B7      POWER                             GND
+    B8      POWER                             FPGA_MGTAVCC
+    B9      BI        CDSDefaultIO_2p5v       MGTREFCLK1_230_N
+    B10     BI        CDSDefaultIO_2p5v       MGTREFCLK1_230_P
+    B11     POWER                             GND
+    B12     BI        CDSDefaultIO_2p5v       BANK49_IO_L10N
+    B13     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L8N
+    B14     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L7N
+    B15     BI        CDSDefaultIO_2p5v       BANK49_IO_L4P
+    B16     BI        CDSDefaultIO_2p5v       BANK49_IO_L3P
+    B17     POWER                             GND
+    B18     BI        CDSDefaultIO_2p5v       BANK48_IO_L10P
+    B19     BI        CDSDefaultIO_2p5v       BANK48_IO_L10N
+    B20     BI        CDSDefaultIO_2p5v       BANK47_IO_L12P
+    B21     BI        CDSDefaultIO_2p5v       BANK47_IO_L10N
+    B22     POWER                             GND
+    B23     BI        CDSDefaultIO_2p5v       OTG_NXT
+    B24     BI        CDSDefaultIO_2p5v       OTG_DATA3
+    B25     BI        CDSDefaultIO_2p5v       PHY_TXD2
+    B26     BI        CDSDefaultIO_2p5v       PHY_TXD3
+    B27     BI        CDSDefaultIO_2p5v       PHY_TXCTL
+    B28     POWER                             GND
+    B29     BI        CDSDefaultIO_2p5v       MGTHTX2_130_P
+    B30     BI        CDSDefaultIO_2p5v       MGTHTX2_130_N
+    B31     POWER                             FPGA_MGTAVTT
+    B32     POWER                             GND
+    B33     BI        CDSDefaultIO_2p5v       MGTHRX3_130_P
+    B34     BI        CDSDefaultIO_2p5v       MGTHRX3_130_N
+    C1      POWER                             GND
+    C2      POWER                             GND
+    C3      BI        CDSDefaultIO_2p5v       MGTHRX1_230_N
+    C4      BI        CDSDefaultIO_2p5v       MGTHRX1_230_P
+    C5      POWER                             GND
+    C6      POWER                             FPGA_MGTAVCC
+    C7      BI        CDSDefaultIO_2p5v       MGTREFCLK0_230_N
+    C8      BI        CDSDefaultIO_2p5v       MGTREFCLK0_230_P
+    C9      POWER                             GND
+    C10     POWER                             GND
+    C11     POWER                             GND
+    C12     BI        CDSDefaultIO_2p5v       BANK49_IO_L10P
+    C13     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L8P
+    C14     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L7P
+    C15     POWER                             GND
+    C16     BI        CDSDefaultIO_2p5v       BANK49_IO_L2N
+    C17     BI        CDSDefaultIO_2p5v       BANK48_IO_L9N
+    C18     BI        CDSDefaultIO_2p5v       BANK48_IO_L11P
+    C19     BI        CDSDefaultIO_2p5v       BANK48_IO_L11N
+    C20     POWER                             GND
+    C21     BI        CDSDefaultIO_2p5v       BANK47_IO_L10P
+    C22     BI        CDSDefaultIO_2p5v       BANK47_IO_L9N
+    C23     BI        CDSDefaultIO_2p5v       OTG_DATA0
+    C24     BI        CDSDefaultIO_2p5v       OTG_DATA5
+    C25     POWER                             GND
+    C26     BI        CDSDefaultIO_2p5v       PHY_RXCK
+    C27     BI        CDSDefaultIO_2p5v       PHY_RXD0
+    C28     POWER                             GND
+    C29     POWER                             FPGA_MGTAVTT
+    C30     POWER                             GND
+    C31     BI        CDSDefaultIO_2p5v       MGTHRX2_130_P
+    C32     BI        CDSDefaultIO_2p5v       MGTHRX2_130_N
+    C33     POWER                             GND
+    C34     POWER                             GND
+    D1      BI        CDSDefaultIO_2p5v       MGTHRX0_230_N
+    D2      BI        CDSDefaultIO_2p5v       MGTHRX0_230_P
+    D3      POWER                             GND
+    D4      POWER                             FPGA_MGTAVTT
+    D5      BI        CDSDefaultIO_2p5v       MGTHTX1_230_N
+    D6      BI        CDSDefaultIO_2p5v       MGTHTX1_230_P
+    D7      POWER                             FPGA_MGTAVCC
+    D8      POWER                             GND
+    D9      POWER                             GND
+    D10     BI        CDSDefaultIO_2p5v       BANK50_IO_L4N
+    D11     BI        CDSDefaultIO_2p5v       BANK50_IO_L4P
+    D12     BI        CDSDefaultIO_2p5v       BANK49_IO_L11N
+    D13     POWER                             GND
+    D14     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L6N
+    D15     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L5N
+    D16     BI        CDSDefaultIO_2p5v       BANK49_IO_L2P
+    D17     BI        CDSDefaultIO_2p5v       BANK48_IO_L9P
+    D18     POWER                             GND
+    D19     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L7N
+    D20     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L8N
+    D21     BI        CDSDefaultIO_2p5v       BANK47_IO_L9P
+    D22     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L7N
+    D23     POWER                             FPGA_VCC1V8
+    D24     BI        CDSDefaultIO_2p5v       OTG_DATA7
+    D25     BI        CDSDefaultIO_2p5v       PHY_RXCTL
+    D26     POWER                             GND
+    D27     POWER                             GND
+    D28     POWER                             GND
+    D29     BI        CDSDefaultIO_2p5v       MGTHTX1_130_P
+    D30     BI        CDSDefaultIO_2p5v       MGTHTX1_130_N
+    D31     POWER                             GND
+    D32     POWER                             FPGA_MGTAVTT
+    D33     BI        CDSDefaultIO_2p5v       MGTHRX1_130_P
+    D34     BI        CDSDefaultIO_2p5v       MGTHRX1_130_N
+    E1      POWER                             GND
+    E2      POWER                             GND
+    E3      BI        CDSDefaultIO_2p5v       MGTHTX0_230_N
+    E4      BI        CDSDefaultIO_2p5v       MGTHTX0_230_P
+    E5      POWER                             FPGA_MGTAVCC
+    E6      POWER                             GND
+    E7      BI        CDSDefaultIO_2p5v       MGTREFCLK1_229_N
+    E8      BI        CDSDefaultIO_2p5v       MGTREFCLK1_229_P
+    E9      POWER                             GND
+    E10     BI        CDSDefaultIO_2p5v       BANK50_IO_L3N
+    E11     POWER                             GND
+    E12     BI        CDSDefaultIO_2p5v       BANK49_IO_L11P
+    E13     BI        CDSDefaultIO_2p5v       BANK49_IO_L12N
+    E14     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L6P
+    E15     BI        CDSDefaultIO_2p5v       BANK49_GC_IO_L5P
+    E16     POWER                             VCCO_HD_BANK49
+    E17     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L8P
+    E18     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L8N
+    E19     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L7P
+    E20     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L8P
+    E21     POWER                             VCCO_HD_BANK47
+    E22     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L7P
+    E23     BI        CDSDefaultIO_2p5v       OTG_DIR
+    E24     BI        CDSDefaultIO_2p5v       OTG_DATA4
+    E25     BI        CDSDefaultIO_2p5v       PHY_RXD1
+    E26     POWER                             GND
+    E27     BI        CDSDefaultIO_2p5v       MGTREFCLK1_130_P
+    E28     BI        CDSDefaultIO_2p5v       MGTREFCLK1_130_N
+    E29     POWER                             GND
+    E30     POWER                             FPGA_MGTAVTT
+    E31     BI        CDSDefaultIO_2p5v       MGTHRX0_130_P
+    E32     BI        CDSDefaultIO_2p5v       MGTHRX0_130_N
+    E33     POWER                             GND
+    E34     POWER                             GND
+    F1      BI        CDSDefaultIO_2p5v       MGTHRX3_229_N
+    F2      BI        CDSDefaultIO_2p5v       MGTHRX3_229_P
+    F3      POWER                             FPGA_MGTAVTT
+    F4      POWER                             GND
+    F5      BI        CDSDefaultIO_2p5v       MGTHTX3_229_N
+    F6      BI        CDSDefaultIO_2p5v       MGTHTX3_229_P
+    F7      POWER                             GND
+    F8      POWER                             FPGA_MGTVCCAUX
+    F9      POWER                             GND
+    F10     BI        CDSDefaultIO_2p5v       BANK50_IO_L3P
+    F11     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L6N
+    F12     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L6P
+    F13     BI        CDSDefaultIO_2p5v       BANK49_IO_L12P
+    F14     POWER                             VCCO_HD_BANK49
+    F15     BI        CDSDefaultIO_2p5v       BANK49_IO_L1N
+    F16     BI        CDSDefaultIO_2p5v       BANK49_IO_L1P
+    F17     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L6P
+    F18     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L6N
+    F19     POWER                             GND
+    F20     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L6N
+    F21     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L5N
+    F22     BI        CDSDefaultIO_2p5v       OTG_CLK
+    F23     BI        CDSDefaultIO_2p5v       OTG_DATA2
+    F24     POWER                             FPGA_VCC1V8
+    F25     BI        CDSDefaultIO_2p5v       PHY_MDIO
+    F26     POWER                             GND
+    F27     POWER                             GND
+    F28     POWER                             FPGA_MGTAVCC
+    F29     BI        CDSDefaultIO_2p5v       MGTHTX0_130_P
+    F30     BI        CDSDefaultIO_2p5v       MGTHTX0_130_N
+    F31     POWER                             FPGA_MGTAVTT
+    F32     POWER                             GND
+    F33     BI        CDSDefaultIO_2p5v       MGTHRX3_129_P
+    F34     BI        CDSDefaultIO_2p5v       MGTHRX3_129_N
+    G1      POWER                             GND
+    G2      POWER                             GND
+    G3      BI        CDSDefaultIO_2p5v       MGTHTX2_229_N
+    G4      BI        CDSDefaultIO_2p5v       MGTHTX2_229_P
+    G5      POWER                             GND
+    G6      POWER                             FPGA_MGTAVCC
+    G7      BI        CDSDefaultIO_2p5v       MGTREFCLK0_229_N
+    G8      BI        CDSDefaultIO_2p5v       MGTREFCLK0_229_P
+    G9      POWER                             GND
+    G10     BI        CDSDefaultIO_2p5v       BANK50_IO_L2N
+    G11     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L5N
+    G12     POWER                             VCCO_HD_BANK50
+    G13     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L8N
+    G14     BI        CDSDefaultIO_2p5v       BANK50_IO_L9N
+    G15     BI        CDSDefaultIO_2p5v       BANK50_IO_L9P
+    G16     BI        CDSDefaultIO_2p5v       BANK50_IO_L11N
+    G17     POWER                             VCCO_HD_BANK48
+    G18     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L5P
+    G19     BI        CDSDefaultIO_2p5v       BANK48_GC_IO_L5N
+    G20     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L6P
+    G21     BI        CDSDefaultIO_2p5v       BANK47_GC_IO_L5P
+    G22     POWER                             FPGA_VCC1V8
+    G23     BI        CDSDefaultIO_2p5v       OTG_STP
+    G24     BI        CDSDefaultIO_2p5v       OTG_DATA6
+    G25     BI        CDSDefaultIO_2p5v       PHY_RXD3
+    G26     POWER                             GND
+    G27     BI        CDSDefaultIO_2p5v       MGTREFCLK0_130_P
+    G28     BI        CDSDefaultIO_2p5v       MGTREFCLK0_130_N
+    G29     POWER                             FPGA_MGTAVCC
+    G30     POWER                             GND
+    G31     BI        CDSDefaultIO_2p5v       MGTHTX3_129_P
+    G32     BI        CDSDefaultIO_2p5v       MGTHTX3_129_N
+    G33     POWER                             GND
+    G34     POWER                             GND
+    H1      BI        CDSDefaultIO_2p5v       MGTHRX2_229_N
+    H2      BI        CDSDefaultIO_2p5v       MGTHRX2_229_P
+    H3      POWER                             GND
+    H4      POWER                             FPGA_MGTAVTT
+    H5      BI        CDSDefaultIO_2p5v       MGTHTX1_229_N
+    H6      BI        CDSDefaultIO_2p5v       MGTHTX1_229_P
+    H7      POWER                             FPGA_MGTVCCAUX
+    H8      POWER                             GND
+    H9      POWER                             GND
+    H10     BI        CDSDefaultIO_2p5v       BANK50_IO_L2P
+    H11     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L5P
+    H12     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L7N
+    H13     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L8P
+    H14     BI        CDSDefaultIO_2p5v       BANK50_IO_L10N
+    H15     POWER                             GND
+    H16     BI        CDSDefaultIO_2p5v       BANK50_IO_L11P
+    H17     BI        CDSDefaultIO_2p5v       BANK48_IO_L2N
+    H18     BI        CDSDefaultIO_2p5v       BANK48_IO_L1P
+    H19     BI        CDSDefaultIO_2p5v       BANK48_IO_L1N
+    H20     POWER                             VCCO_HD_BANK47
+    H21     BI        CDSDefaultIO_2p5v       BANK47_IO_L3N
+    H22     BI        CDSDefaultIO_2p5v       PS_MIO32
+    H23     BI        CDSDefaultIO_2p5v       PS_MIO33
+    H24     BI        CDSDefaultIO_2p5v       PHY_RXD2
+    H25     BI        CDSDefaultIO_2p5v       PHY_MDC
+    H26     POWER                             GND
+    H27     POWER                             FPGA_MGTAVCC
+    H28     POWER                             GND
+    H29     BI        CDSDefaultIO_2p5v       MGTHTX2_129_P
+    H30     BI        CDSDefaultIO_2p5v       MGTHTX2_129_N
+    H31     POWER                             GND
+    H32     POWER                             FPGA_MGTAVTT
+    H33     BI        CDSDefaultIO_2p5v       MGTHRX2_129_P
+    H34     BI        CDSDefaultIO_2p5v       MGTHRX2_129_N
+    J1      POWER                             GND
+    J2      POWER                             GND
+    J3      BI        CDSDefaultIO_2p5v       MGTHRX1_229_N
+    J4      BI        CDSDefaultIO_2p5v       MGTHRX1_229_P
+    J5      POWER                             FPGA_MGTAVTT
+    J6      POWER                             GND
+    J7      BI        CDSDefaultIO_2p5v       MGTREFCLK1_228_N
+    J8      BI        CDSDefaultIO_2p5v       MGTREFCLK1_228_P
+    J9      POWER                             GND
+    J10     BI        CDSDefaultIO_2p5v       BANK50_IO_L1N
+    J11     BI        CDSDefaultIO_2p5v       BANK50_IO_L1P
+    J12     BI        CDSDefaultIO_2p5v       BANK50_GC_IO_L7P
+    J13     POWER                             VCCO_HD_BANK50
+    J14     BI        CDSDefaultIO_2p5v       BANK50_IO_L10P
+    J15     BI        CDSDefaultIO_2p5v       BANK50_IO_L12N
+    J16     BI        CDSDefaultIO_2p5v       BANK50_IO_L12P
+    J17     BI        CDSDefaultIO_2p5v       BANK48_IO_L2P
+    J18     POWER                             VCCO_HD_BANK48
+    J19     BI        CDSDefaultIO_2p5v       BANK47_IO_L4P
+    J20     BI        CDSDefaultIO_2p5v       BANK47_IO_L4N
+    J21     BI        CDSDefaultIO_2p5v       BANK47_IO_L3P
+    J22     BI        CDSDefaultIO_2p5v       PS_MIO31
+    J23     POWER                             GND
+    J24     BI        CDSDefaultIO_2p5v       PS_MIO41
+    J25     BI        CDSDefaultIO_2p5v       SD_DAT0
+    J26     POWER                             GND
+    J27     BI        CDSDefaultIO_2p5v       MGTREFCLK1_129_P
+    J28     BI        CDSDefaultIO_2p5v       MGTREFCLK1_129_N
+    J29     POWER                             GND
+    J30     POWER                             FPGA_MGTAVTT
+    J31     BI        CDSDefaultIO_2p5v       MGTHTX1_129_P
+    J32     BI        CDSDefaultIO_2p5v       MGTHTX1_129_N
+    J33     POWER                             GND
+    J34     POWER                             GND
+    K1      BI        CDSDefaultIO_2p5v       MGTHRX0_229_N
+    K2      BI        CDSDefaultIO_2p5v       MGTHRX0_229_P
+    K3      POWER                             FPGA_MGTAVTT
+    K4      POWER                             GND
+    K5      BI        CDSDefaultIO_2p5v       MGTHTX0_229_N
+    K6      BI        CDSDefaultIO_2p5v       MGTHTX0_229_P
+    K7      POWER                             GND
+    K8      POWER                             FPGA_MGTAVCC
+    K9      POWER                             GND
+    K10     BI        CDSDefaultIO_2p5v       BANK67_IO_T2U_N12
+    K11     POWER                             GND
+    K12     BI        CDSDefaultIO_2p5v       BANK67_IO_L18N
+    K13     BI        CDSDefaultIO_2p5v       BANK67_IO_L23N
+    K14     BI        CDSDefaultIO_2p5v       BANK67_IO_T3U_N12
+    K15     BI        CDSDefaultIO_2p5v       BANK67_IO_L24N
+    K16     BI        CDSDefaultIO_2p5v       BANK67_IO_L19N
+    K17     BI        CDSDefaultIO_2p5v       BANK48_IO_L4N
+    K18     BI        CDSDefaultIO_2p5v       BANK48_IO_L3N
+    K19     BI        CDSDefaultIO_2p5v       BANK47_IO_L2N
+    K20     BI        CDSDefaultIO_2p5v       BANK47_IO_L1N
+    K21     POWER                             GND
+    K22     BI        CDSDefaultIO_2p5v       PS_MIO29
+    K23     BI        CDSDefaultIO_2p5v       PS_MIO36
+    K24     BI        CDSDefaultIO_2p5v       PS_MIO43
+    K25     BI        CDSDefaultIO_2p5v       SD_DAT3
+    K26     POWER                             GND
+    K27     POWER                             GND
+    K28     POWER                             FPGA_MGTVCCAUX
+    K29     BI        CDSDefaultIO_2p5v       MGTHTX0_129_P
+    K30     BI        CDSDefaultIO_2p5v       MGTHTX0_129_N
+    K31     POWER                             FPGA_MGTAVTT
+    K32     POWER                             GND
+    K33     BI        CDSDefaultIO_2p5v       MGTHRX1_129_P
+    K34     BI        CDSDefaultIO_2p5v       MGTHRX1_129_N
+    L1      POWER                             GND
+    L2      POWER                             GND
+    L3      BI        CDSDefaultIO_2p5v       MGTHRX3_228_N
+    L4      BI        CDSDefaultIO_2p5v       MGTHRX3_228_P
+    L5      POWER                             GND
+    L6      POWER                             FPGA_MGTAVTT
+    L7      BI        CDSDefaultIO_2p5v       MGTREFCLK0_228_N
+    L8      BI        CDSDefaultIO_2p5v       MGTREFCLK0_228_P
+    L9      POWER                             GND
+    L10     BI        CDSDefaultIO_2p5v       BANK67_IO_L15N
+    L11     BI        CDSDefaultIO_2p5v       BANK67_IO_L17N
+    L12     BI        CDSDefaultIO_2p5v       BANK67_IO_L18P
+    L13     BI        CDSDefaultIO_2p5v       BANK67_IO_L23P
+    L14     POWER                             GND
+    L15     BI        CDSDefaultIO_2p5v       BANK67_IO_L24P
+    L16     BI        CDSDefaultIO_2p5v       BANK67_IO_L19P
+    L17     BI        CDSDefaultIO_2p5v       BANK48_IO_L4P
+    L18     BI        CDSDefaultIO_2p5v       BANK48_IO_L3P
+    L19     BI        CDSDefaultIO_2p5v       BANK47_IO_L2P
+    L20     BI        CDSDefaultIO_2p5v       BANK47_IO_L1P
+    L21     BI        CDSDefaultIO_2p5v       PS_MIO30
+    L22     BI        CDSDefaultIO_2p5v       PS_MIO34
+    L23     BI        CDSDefaultIO_2p5v       PS_MIO38
+    L24     POWER                             FPGA_VCC1V8
+    L25     BI        CDSDefaultIO_2p5v       SD_DAT1
+    L26     POWER                             GND
+    L27     BI        CDSDefaultIO_2p5v       MGTREFCLK0_129_P
+    L28     BI        CDSDefaultIO_2p5v       MGTREFCLK0_129_N
+    L29     POWER                             FPGA_MGTAVCC
+    L30     POWER                             GND
+    L31     BI        CDSDefaultIO_2p5v       MGTHRX0_129_P
+    L32     BI        CDSDefaultIO_2p5v       MGTHRX0_129_N
+    L33     POWER                             GND
+    L34     POWER                             GND
+    M1      BI        CDSDefaultIO_2p5v       MGTHRX2_228_N
+    M2      BI        CDSDefaultIO_2p5v       MGTHRX2_228_P
+    M3      POWER                             GND
+    M4      POWER                             FPGA_MGTAVTT
+    M5      BI        CDSDefaultIO_2p5v       MGTHTX3_228_N
+    M6      BI        CDSDefaultIO_2p5v       MGTHTX3_228_P
+    M7      POWER                             GND
+    M8      POWER                             GND
+    M9      POWER                             GND
+    M10     BI        CDSDefaultIO_2p5v       BANK67_IO_L15P
+    M11     BI        CDSDefaultIO_2p5v       BANK67_IO_L17P
+    M12     POWER                             GND
+    M13     BI        CDSDefaultIO_2p5v       BANK67_IO_L22N
+    M14     BI        CDSDefaultIO_2p5v       BANK67_IO_L20N
+    M15     BI        CDSDefaultIO_2p5v       BANK67_IO_L20P
+    M16     POWER                             FPGA_VCCINT
+    M17     POWER                             GND
+    M18     POWER                             FPGA_VCCINT
+    M19     POWER                             GND
+    M20     POWER                             FPGA_VCCINT
+    M21     BI        CDSDefaultIO_2p5v       PS_MIO27
+    M22     POWER                             FPGA_VCC1V8
+    M23     BI        CDSDefaultIO_2p5v       PS_MIO40
+    M24     BI        CDSDefaultIO_2p5v       PS_MIO42
+    M25     BI        CDSDefaultIO_2p5v       SD_DAT2
+    M26     POWER                             GND
+    M27     POWER                             FPGA_MGTVCCAUX
+    M28     POWER                             GND
+    M29     BI        CDSDefaultIO_2p5v       MGTHTX3_128_P
+    M30     BI        CDSDefaultIO_2p5v       MGTHTX3_128_N
+    M31     POWER                             GND
+    M32     POWER                             FPGA_MGTAVTT
+    M33     BI        CDSDefaultIO_2p5v       MGTHRX3_128_P
+    M34     BI        CDSDefaultIO_2p5v       MGTHRX3_128_N
+    N1      POWER                             GND
+    N2      POWER                             GND
+    N3      BI        CDSDefaultIO_2p5v       MGTHTX2_228_N
+    N4      BI        CDSDefaultIO_2p5v       MGTHTX2_228_P
+    N5      POWER                             FPGA_MGTAVTT
+    N6      POWER                             GND
+    N7      POWER                             GND
+    N8      BI        CDSDefaultIO_2p5v       BANK67_IO_L16N
+    N9      BI        CDSDefaultIO_2p5v       BANK67_IO_L16P
+    N10     POWER                             GND
+    N11     BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L13N
+    N12     BI        CDSDefaultIO_2p5v       BANK67_IO_L21N
+    N13     BI        CDSDefaultIO_2p5v       BANK67_IO_L22P
+    N14     BI        CDSDefaultIO_2p5v       VCCO_HP_BANK67
+    N15     POWER                             FPGA_VCCINT
+    N16     POWER                             GND
+    N17     POWER                             FPGA_VCCINT
+    N18     POWER                             GND
+    N19     POWER                             FPGA_VCCINT
+    N20     POWER                             GND
+    N21     BI        CDSDefaultIO_2p5v       PS_MIO28
+    N22     BI        CDSDefaultIO_2p5v       PS_MIO37
+    N23     BI        CDSDefaultIO_2p5v       PS_MIO39
+    N24     BI        CDSDefaultIO_2p5v       PS_MIO44
+    N25     BI        CDSDefaultIO_2p5v       SD_CLKA
+    N26     POWER                             GND
+    N27     BI        CDSDefaultIO_2p5v       MGTREFCLK1_128_P
+    N28     BI        CDSDefaultIO_2p5v       MGTREFCLK1_128_N
+    N29     POWER                             GND
+    N30     POWER                             FPGA_MGTAVTT
+    N31     BI        CDSDefaultIO_2p5v       MGTHRX2_128_P
+    N32     BI        CDSDefaultIO_2p5v       MGTHRX2_128_N
+    N33     POWER                             GND
+    N34     POWER                             GND
+    P1      BI        CDSDefaultIO_2p5v       MGTHRX1_228_N
+    P2      BI        CDSDefaultIO_2p5v       MGTHRX1_228_P
+    P3      POWER                             FPGA_MGTAVTT
+    P4      POWER                             GND
+    P5      BI        CDSDefaultIO_2p5v       MGTHTX1_228_N
+    P6      BI        CDSDefaultIO_2p5v       MGTHTX1_228_P
+    P7      POWER                             GND
+    P8      POWER                             VCCO_HP_BANK67
+    P9      BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L14N
+    P10     BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L14P
+    P11     BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L13P
+    P12     BI        CDSDefaultIO_2p5v       BANK67_IO_L21P
+    P13     POWER                             GND
+    P14     POWER                             FPGA_VCCINT
+    P15     POWER                             GND
+    P16     POWER                             FPGA_VCCINT
+    P17     POWER                             GND
+    P18     POWER                             FPGA_VCCINT
+    P19     POWER                             GND
+    P20     POWER                             FPGA_VCCINT
+    P21     BI        CDSDefaultIO_2p5v       PS_MIO26
+    P22     BI        CDSDefaultIO_2p5v       PS_MIO35
+    P23     POWER                             GND
+    P24     BI        CDSDefaultIO_2p5v       SD_CD
+    P25     BI        CDSDefaultIO_2p5v       SD_CMD
+    P26     POWER                             GND
+    P27     POWER                             GND
+    P28     POWER                             FPGA_MGTAVCC
+    P29     BI        CDSDefaultIO_2p5v       MGTHTX2_128_P
+    P30     BI        CDSDefaultIO_2p5v       MGTHTX2_128_N
+    P31     POWER                             FPGA_MGTAVTT
+    P32     POWER                             GND
+    P33     BI        CDSDefaultIO_2p5v       MGTHRX1_128_P
+    P34     BI        CDSDefaultIO_2p5v       MGTHRX1_128_N
+    R1      POWER                             GND
+    R2      POWER                             GND
+    R3      BI        CDSDefaultIO_2p5v       MGTHTX0_228_N
+    R4      BI        CDSDefaultIO_2p5v       MGTHTX0_228_P
+    R5      POWER                             GND
+    R6      POWER                             GND
+    R7      POWER                             GND
+    R8      BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L12N
+    R9      BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L11N
+    R10     BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L11P
+    R11     POWER                             GND
+    R12     BI        CDSDefaultIO_2p5v       BANK67_IO_L4N
+    R13     BI        CDSDefaultIO_2p5v       BANK67_IO_L2N
+    R14     POWER                             GND
+    R15     POWER                             FPGA_VCCINT
+    R16     POWER                             GND
+    R17     POWER                             FPGA_VCCINT
+    R18     POWER                             GND
+    R19     POWER                             FPGA_VCCINT
+    R20     POWER                             GND
+    R21     BI        CDSDefaultIO_2p5v       
+    R22     BI        CDSDefaultIO_2p5v       PS_MODE1
+    R23     BI        CDSDefaultIO_2p5v       PS_MODE3
+    R24     BI        CDSDefaultIO_2p5v       FPGA_TMS
+    R25     BI        CDSDefaultIO_2p5v       FPGA_TCK
+    R26     POWER                             GND
+    R27     BI        CDSDefaultIO_2p5v       MGTREFCLK0_128_P
+    R28     BI        CDSDefaultIO_2p5v       MGTREFCLK0_128_N
+    R29     POWER                             FPGA_MGTAVCC
+    R30     POWER                             GND
+    R31     BI        CDSDefaultIO_2p5v       MGTHTX1_128_P
+    R32     BI        CDSDefaultIO_2p5v       MGTHTX1_128_N
+    R33     POWER                             GND
+    R34     POWER                             GND
+    T1      BI        CDSDefaultIO_2p5v       MGTHRX0_228_N
+    T2      BI        CDSDefaultIO_2p5v       MGTHRX0_228_P
+    T3      POWER                             GND
+    T4      POWER                             GND
+    T5      POWER                             GND
+    T6      BI        CDSDefaultIO_2p5v       BANK67_IO_L10N
+    T7      BI        CDSDefaultIO_2p5v       BANK67_IO_L10P
+    T8      BI        CDSDefaultIO_2p5v       BANK67_GC_IO_L12P
+    T9      POWER                             VCCO_HP_BANK67
+    T10     BI        CDSDefaultIO_2p5v       BANK67_IO_L3N
+    T11     BI        CDSDefaultIO_2p5v       BANK67_IO_L6N
+    T12     BI        CDSDefaultIO_2p5v       BANK67_IO_L4P
+    T13     BI        CDSDefaultIO_2p5v       BANK67_IO_L2P
+    T14     POWER                             FPGA_VCCAUX
+    T15     POWER                             GND
+    T16     POWER                             FPGA_VCCINT
+    T17     BI        CDSDefaultIO_2p5v       AGND
+    T18     BI        CDSDefaultIO_2p5v       FPGA_VCCAUX
+    T19     POWER                             GND
+    T20     POWER                             FPGA_VCCINT
+    T21     BI        CDSDefaultIO_2p5v       
+    T22     BI        CDSDefaultIO_2p5v       PS_MODE0
+    T23     BI        CDSDefaultIO_2p5v       PS_MODE2
+    T24     POWER                             PS_VCC3V3
+    T25     BI        CDSDefaultIO_2p5v       FPGA_TDO
+    T26     POWER                             GND
+    T27     POWER                             GND
+    T28     POWER                             GND
+    T29     BI        CDSDefaultIO_2p5v       MGTHTX0_128_P
+    T30     BI        CDSDefaultIO_2p5v       MGTHTX0_128_N
+    T31     POWER                             GND
+    T32     POWER                             GND
+    T33     BI        CDSDefaultIO_2p5v       MGTHRX0_128_P
+    T34     BI        CDSDefaultIO_2p5v       MGTHRX0_128_N
+    U1      POWER                             GND
+    U2      POWER                             GND
+    U3      POWER                             GND
+    U4      BI        CDSDefaultIO_2p5v       BANK66_IO_L18N
+    U5      BI        CDSDefaultIO_2p5v       BANK66_IO_L18P
+    U6      BI        CDSDefaultIO_2p5v       BANK67_IO_L8N
+    U7      POWER                             VCCO_HP_BANK67
+    U8      BI        CDSDefaultIO_2p5v       BANK67_IO_L9N
+    U9      BI        CDSDefaultIO_2p5v       BANK67_IO_L9P
+    U10     BI        CDSDefaultIO_2p5v       BANK67_IO_L3P
+    U11     BI        CDSDefaultIO_2p5v       BANK67_IO_L6P
+    U12     POWER                             GND
+    U13     POWER                             FPGA_VCCAUX
+    U14     POWER                             FPGA_VCCAUX
+    U15     POWER                             FPGA_VCCINT
+    U16     POWER                             GND
+    U17     BI        CDSDefaultIO_2p5v       AGND
+    U18     BI        CDSDefaultIO_2p5v       
+    U19     POWER                             FPGA_VCCINT
+    U20     POWER                             GND
+    U21     BI        CDSDefaultIO_2p5v       PS_PROG_B
+    U22     POWER                             PS_VCC3V3
+    U23     BI        CDSDefaultIO_2p5v       PS_RST_B
+    U24     BI        CDSDefaultIO_2p5v       PS_CLK
+    U25     BI        CDSDefaultIO_2p5v       FPGA_TDI
+    U26     POWER                             GND
+    U27     BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK2_P
+    U28     BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK2_N
+    U29     POWER                             GND
+    U30     POWER                             GND
+    U31     BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK3_P
+    U32     BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK3_N
+    U33     POWER                             GND
+    U34     POWER                             GND
+    V1      BI        CDSDefaultIO_2p5v       BANK66_IO_L23N
+    V2      BI        CDSDefaultIO_2p5v       BANK66_IO_L23P
+    V3      BI        CDSDefaultIO_2p5v       BANK66_IO_L17N
+    V4      BI        CDSDefaultIO_2p5v       BANK66_IO_L17P
+    V5      POWER                             GND
+    V6      BI        CDSDefaultIO_2p5v       BANK67_IO_L8P
+    V7      BI        CDSDefaultIO_2p5v       BANK67_IO_L7N
+    V8      BI        CDSDefaultIO_2p5v       BANK67_IO_L7P
+    V9      BI        CDSDefaultIO_2p5v       BANK67_IO_T1U_N12
+    V10     POWER                             GND
+    V11     BI        CDSDefaultIO_2p5v       BANK67_IO_L5N
+    V12     BI        CDSDefaultIO_2p5v       BANK67_IO_L5P
+    V13     POWER                             FPGA_VCCAUX
+    V14     POWER                             FPGA_VCCAUX
+    V15     POWER                             GND
+    V16     POWER                             FPGA_VCCINT
+    V17     BI        CDSDefaultIO_2p5v       
+    V18     BI        CDSDefaultIO_2p5v       AGND
+    V19     POWER                             GND
+    V20     POWER                             FPGA_VCCINT
+    V21     BI        CDSDefaultIO_2p5v       
+    V22     BI        CDSDefaultIO_2p5v       
+    V23     BI        CDSDefaultIO_2p5v       PS_POR_B
+    V24     BI        CDSDefaultIO_2p5v       PS_INIT_B
+    V25     POWER                             GND
+    V26     POWER                             GND
+    V27     POWER                             GND
+    V28     POWER                             FPGA_MGTAVCC
+    V29     BI        CDSDefaultIO_2p5v       PS_MGTRTX3_P
+    V30     BI        CDSDefaultIO_2p5v       PS_MGTRTX3_N
+    V31     POWER                             GND
+    V32     POWER                             FPGA_MGTAVTT
+    V33     BI        CDSDefaultIO_2p5v       PS_MGTRRX3_P
+    V34     BI        CDSDefaultIO_2p5v       PS_MGTRRX3_N
+    W1      BI        CDSDefaultIO_2p5v       BANK66_IO_L24N
+    W2      BI        CDSDefaultIO_2p5v       BANK66_IO_L24P
+    W3      POWER                             GND
+    W4      BI        CDSDefaultIO_2p5v       BANK66_IO_L15N
+    W5      BI        CDSDefaultIO_2p5v       BANK66_IO_L15P
+    W6      BI        CDSDefaultIO_2p5v       BANK66_IO_L9N
+    W7      BI        CDSDefaultIO_2p5v       BANK66_IO_L9P
+    W8      POWER                             VCCO_HP_BANK66
+    W9      BI        CDSDefaultIO_2p5v       BANK66_IO_T0U_N12
+    W10     BI        CDSDefaultIO_2p5v       BANK67_IO_T0U_N12
+    W11     BI        CDSDefaultIO_2p5v       BANK67_IO_L1N
+    W12     BI        CDSDefaultIO_2p5v       BANK67_IO_L1P
+    W13     POWER                             GND
+    W14     POWER                             FPGA_VCCINT
+    W15     POWER                             FPGA_VCCINT
+    W16     POWER                             GND
+    W17     BI        CDSDefaultIO_2p5v       DXN
+    W18     BI        CDSDefaultIO_2p5v       DXP
+    W19     POWER                             FPGA_VCCINT
+    W20     POWER                             GND
+    W21     BI        CDSDefaultIO_2p5v       CON_PS_DONE
+    W22     POWER                             VCC_PSPLL
+    W23     POWER                             GND
+    W24     POWER                             VCC_PSPLL
+    W25     POWER                             VCC_PSPLL
+    W26     POWER                             GND
+    W27     BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK1_P
+    W28     BI        CDSDefaultIO_2p5v       PS_MGTRREFCLK1_N
+    W29     POWER                             GND
+    W30     POWER                             FPGA_MGTAVCC
+    W31     BI        CDSDefaultIO_2p5v       PS_MGTRTX2_P
+    W32     BI        CDSDefaultIO_2p5v       PS_MGTRTX2_N
+    W33     POWER                             GND
+    W34     POWER                             GND
+    Y1      BI        CDSDefaultIO_2p5v       BANK66_IO_L22N
+    Y2      BI        CDSDefaultIO_2p5v       BANK66_IO_L22P
+    Y3      BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L13N
+    Y4      BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L13P
+    Y5      BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L14P
+    Y6      POWER                             GND
+    Y7      BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L11N
+    Y8      BI        CDSDefaultIO_2p5v       BANK66_GC_IO_L11P
+    Y9      BI        CDSDefaultIO_2p5v       BANK66_IO_L6N
+    Y10     BI        CDSDefaultIO_2p5v       BANK66_IO_L6P
+    Y11     POWER                             VCCO_HP_BANK66
+    Y12     BI        CDSDefaultIO_2p5v       BANK66_IO_L5P
+    Y13     POWER                             FPGA_VCCINT
+    Y14     POWER                             FPGA_VCCINT
+    Y15     POWER                             GND
+    Y16     POWER                             FPGA_VCCINT
+    Y17     POWER                             GND
+    Y18     POWER                             FPGA_VCCINT
+    Y19     POWER                             GND
+    Y20     POWER                             FPGA_VCCINT
+    Y21     POWER                             GND
+    Y22     POWER                             FPGA_VCCAUX
+    Y23     POWER                             FPGA_VCCAUX
+    Y24     POWER                             VCC_PSDDR_PLL
+    Y25     POWER                             VCC_PSDDR_PLL
+    Y26     POWER                             GND
+    Y27     POWER                             FPGA_MGTAVCC
+    Y28     POWER                             GND
+    Y29     BI        CDSDefaultIO_2p5v       PS_MGTRTX1_P
+    Y30     BI        CDSDefaultIO_2p5v       PS_MGTRTX1_N
+    Y31     POWER                             FPGA_MGTAVTT
+    Y32     POWER                             GND
+    Y33     BI        CDSDefaultIO_2p5v       PS_MGTRRX2_P
+    Y34     BI        CDSDefaultIO_2p5v       PS_MGTRRX2_N

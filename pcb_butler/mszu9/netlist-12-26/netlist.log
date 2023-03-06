@@ -1,0 +1,698 @@
+{ Using PSTWRITER 16.6.0 d001Dec-10-2022 at 15:17:20 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V30" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRTX3_N".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.W28" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRREFCLK1_N".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R31" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX1_128_P".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M30" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX3_128_N".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T29" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX0_128_P".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V29" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRTX3_P".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AA27" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRREFCLK0_P".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P29" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX2_128_P".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.W27" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRREFCLK1_P".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R32" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX1_128_N".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U32" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRREFCLK3_N".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P30" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX2_128_N".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R27" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTREFCLK0_128_P".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.B10" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (10.20, 4.50). Connecting pin to net "MGTREFCLK1_230_P".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.B9" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (10.20, 4.50). Connecting pin to net "MGTREFCLK1_230_N".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R28" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTREFCLK0_128_N".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M29" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX3_128_P".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T30" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTHTX0_128_N".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N27" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTREFCLK1_128_P".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U31" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRREFCLK3_P".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK5" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A0".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K6" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX0_229_P".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK4" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A1".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K2" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX0_229_P".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AN2" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A2".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.E8" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTREFCLK1_229_P".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AP2" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A3".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AN3" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A4".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AP3" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A5".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AM1" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A6".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AN1" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A7".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL3" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A8".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.E27" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (10.20, 0.30). Connecting pin to net "MGTREFCLK1_130_P".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK1" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A10".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.E28" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (10.20, 0.30). Connecting pin to net "MGTREFCLK1_130_N".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK3" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A12".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N14" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "VCCO_HP_BANK67".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AM4" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_BA0".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AN6" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_BA1".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK7" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_SYS_CLK_N".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AP6" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_BG0".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.E7" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTREFCLK1_229_N".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK8" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_SYS_CLK_P".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL6" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_CAS_A15".
+#45 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL5" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_WE_A14".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AP4" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_CS_N".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AN4" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_CKE".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N8" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L16N".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T13" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L2P".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P9" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_GC_IO_L14N".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T6" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L10N".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L17N".
+#53 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L3P".
+#54 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_GC_IO_L13N".
+#55 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L17P".
+#56 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.W12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L1P".
+#57 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.W11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L1N".
+#58 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L21P".
+#59 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L15N".
+#60 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L5N".
+#61 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.H5" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX1_229_N".
+#62 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L18N".
+#63 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L21N".
+#64 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K5" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX0_229_N".
+#65 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R13" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L2N".
+#66 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N9" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L16P".
+#67 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K16" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L19N".
+#68 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.J4" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX1_229_P".
+#69 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M13" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L22N".
+#70 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U8" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L9N".
+#71 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U6" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L8N".
+#72 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L18P".
+#73 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L3N".
+#74 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_GC_IO_L14P".
+#75 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M14" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L20N".
+#76 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R3" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX0_228_N".
+#77 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V6" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L8P".
+#78 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R4" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX0_228_P".
+#79 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V7" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L7N".
+#80 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M6" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX3_228_P".
+#81 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R8" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_GC_IO_L12N".
+#82 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.H1" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX2_229_N".
+#83 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R9" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_GC_IO_L11N".
+#84 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K1" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX0_229_N".
+#85 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L8" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTREFCLK0_228_P".
+#86 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L15P".
+#87 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.F1" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX3_229_N".
+#88 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T7" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L10P".
+#89 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.J8" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTREFCLK1_228_P".
+#90 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N13" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L22P".
+#91 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.G4" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX2_229_P".
+#92 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M5" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX3_228_N".
+#93 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U9" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L9P".
+#94 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P6" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX1_228_P".
+#95 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_GC_IO_L13P".
+#96 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L4P".
+#97 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.F6" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX3_229_P".
+#98 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.T11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L6N".
+#99 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.U11" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L6P".
+#100 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N3" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX2_228_N".
+#101 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N4" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX2_228_P".
+#102 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M15" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L20P".
+#103 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L7" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTREFCLK0_228_N".
+#104 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.J7" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTREFCLK1_228_N".
+#105 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K13" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L23N".
+#106 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P5" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.60, 4.60). Connecting pin to net "MGTHTX1_228_N".
+#107 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V8" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L7P".
+#108 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.R12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L4N".
+#109 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L13" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L23P".
+#110 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.G7" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTREFCLK0_229_N".
+#111 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AE18" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_D5".
+#112 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.J3" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX1_229_N".
+#113 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.H2" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX2_229_P".
+#114 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AD12" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (2.50, 2.70). Connecting pin to net "VCCO_HP_BANK66".
+#115 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AD19" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_RSTN".
+#116 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AD20" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "N20605929".
+#117 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AF18" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_CMD".
+#118 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AD18" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_D7".
+#119 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.F5" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX3_229_N".
+#120 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.G3" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX2_229_N".
+#121 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.F2" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHRX3_229_P".
+#122 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL17" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_D6".
+#123 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AM16" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_D3".
+#124 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.H6" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTHTX1_229_P".
+#125 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL16" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_D1".
+#126 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.G8" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.80, 4.50). Connecting pin to net "MGTREFCLK0_229_P".
+#127 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK17" ignored for U1: SCHEMATIC1, SCH06_FPGA_FLASH_EMMC (2.00, 0.30). Connecting pin to net "EMMC_D0".
+#128 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AB30" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRTX0_N".
+#129 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.C8" ignored for U10: SCHEMATIC1, SCH17_MPM3690 (2.10, 1.60). Connecting pin to net "VS2P".
+#130 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.Y30" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRTX1_N".
+#131 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AD9" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (2.30, 2.50). Connecting pin to net "VRP_65".
+#132 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.W9" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (2.50, 2.70). Connecting pin to net "BANK66_IO_T0U_N12".
+#133 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AA28" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRREFCLK0_N".
+#134 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AN11" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "VRP_64".
+#135 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AA8" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (2.50, 2.70). Connecting pin to net "BANK66_IO_T1U_N12".
+#136 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AA3" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (2.50, 2.70). Connecting pin to net "BANK66_IO_T2U_N12".
+#137 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N23" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO39".
+#138 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L22" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO34".
+#139 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AJ11" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "VREF_64".
+#140 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL1" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A11".
+#141 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AK2" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A13".
+#142 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AL2" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_A9".
+#143 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N21" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO28".
+#144 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.M21" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO27".
+#145 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P21" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO26".
+#146 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N24" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO44".
+#147 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AM5" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_CK0_N".
+#148 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AM6" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_CK0_P".
+#149 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.P22" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.40, 0.10). Connecting pin to net "PS_MIO35".
+#150 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_T2U_N12".
+#151 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.L16" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_L19P".
+#152 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.K14" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_T3U_N12".
+#153 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AB1" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (2.50, 2.70). Connecting pin to net "BANK66_IO_T3U_N12".
+#154 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.W10" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_T0U_N12".
+#155 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.N28" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (0.50, 0.30). Connecting pin to net "MGTREFCLK1_128_N".
+#156 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.V9" ignored for U1: SCHEMATIC1, SCH04_FPGA_BANK66_67 (13.00, 2.60). Connecting pin to net "BANK67_IO_T1U_N12".
+#157 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AJ7" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_RAS_A16".
+#158 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AM3" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_ACT_N".
+#159 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.J28" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.90, 0.40). Connecting pin to net "MGTREFCLK1_129_N".
+#160 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.J27" ignored for U1: SCHEMATIC1, SCH05_FPGA_GTH (5.90, 0.40). Connecting pin to net "MGTREFCLK1_129_P".
+#161 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AB29" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRTX0_P".
+#162 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.Y29" ignored for U1: SCHEMATIC1, SCH08_PS_MIO_MGTR (2.30, 3.80). Connecting pin to net "PS_MGTRTX1_P".
+#163 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AP1" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_RST_N".
+#164 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.AP5" ignored for U1: SCHEMATIC1, SCH03_FPGA_BANK64_65_PLDDR (11.80, 2.40). Connecting pin to net "PL_DDR_ODT".
+#165 WARNING(ORCAP-36006): Part Name "MT40A512M16JY-075E_DDR3_FPGA96_MT40A512M16JY-075E" is renamed to "MT40A512M16JY-075E_DDR3_FPGA96_".
+#166 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#H1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#167 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#F1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#168 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#E8" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#169 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#E3" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#170 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#D8" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#171 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#D2" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#172 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#C9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#173 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#A8" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#174 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#H9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#175 WARNING(ORCAP-36042): Pin "VSSQ" is renamed to "VSSQ#A2" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#176 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#T1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#177 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#N1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#178 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#M9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#179 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#K9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#180 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#K1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#181 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#G8" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#182 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#E9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#183 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#E1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#184 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#B2" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#185 WARNING(ORCAP-36042): Pin "VPP" is renamed to "VPP#R9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#186 WARNING(ORCAP-36042): Pin "VPP" is renamed to "VPP#B1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#187 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#J2" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#188 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#G9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#189 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#G1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#190 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#F8" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#191 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#F2" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#192 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#D9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#193 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#C1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#194 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#A9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#195 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#J8" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#196 WARNING(ORCAP-36042): Pin "VDDQ" is renamed to "VDDQ#A1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#197 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#R1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#198 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#L9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#199 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#L1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#200 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#J9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#201 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#J1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#202 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#G7" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#203 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#D1" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#204 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#B9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#205 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#T9" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#206 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#B3" as visible power pin of same name already exists in Package MT40A512M16JY-075E , DDR4_U1: SCHEMATIC1, SCH12_PL_DDR4_U1_U2 (3.40, 2.50).
+#207 WARNING(ORCAP-36006): Part Name "ERM5-075-05.0_L-DV_ERM5-075-XX_X-X-DV_ERM5-075-02.0-L-DV" is renamed to "ERM5-075-05.0_L-DV_ERM5-075-XX_".
+#208 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#209 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#20" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#210 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#30" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#211 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#40" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#212 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#50" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#213 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#60" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#214 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#70" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#215 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#216 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#90" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#217 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#100" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#218 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#110" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#219 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#120" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#220 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#221 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#19" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#222 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#29" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#223 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#224 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#49" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#225 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#59" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#226 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#69" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#227 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#79" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#228 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#89" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#229 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#99" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#230 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#109" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#231 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#119" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#232 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#129" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#233 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#130" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#234 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#139" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#235 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#140" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#236 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#149" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#237 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#150" as visible power pin of same name already exists in Package ERM5-075-05.0_L-DV , J1: SCHEMATIC1, SCH19_CON (4.40, 3.40).
+#238 WARNING(ORCAP-36006): Part Name "INDC41X41_INDC41X41_2.2UH-INDC41X41" is renamed to "INDC41X41_INDC41X41_2.2UH-INDC4".
+#239 WARNING(ORCAP-36006): Part Name "INDC41X41_INDC41X41_1.8UH-INDC41X41" is renamed to "INDC41X41_INDC41X41_1.8UH-INDC4".
+#240 WARNING(ORCAP-36006): Part Name "INDC41X41_INDC41X41_1UH-INDC41X41" is renamed to "INDC41X41_INDC41X41_1UH-INDC41X".
+#241 WARNING(ORCAP-36006): Part Name "OSC_7050_OSCSC254P700X500X160-6N_CO75D6-200.000-33JDTST" is renamed to "OSC_7050_OSCSC254P700X500X160-6".
+#242 WARNING(ORCAP-36006): Part Name "OSCSC210P250X320X120-4N_OSCSC210P250X320X120-4N_33.333333MHZ-3V3" is renamed to "OSCSC210P250X320X120-4N_OSCSC21".
+#243 WARNING(ORCAP-36006): Part Name "NEXFET_CSD87331Q3D_DQZ8_SON65P_9N1P8X2P7_CSD87331Q3D" is renamed to "NEXFET_CSD87331Q3D_DQZ8_SON65P_".
+#244 WARNING(ORCAP-36006): Part Name "XCZU9-FFVB1156_FAN57MM_SOC_1156_1MM_IRON_FAN57MM_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14+S15+S16+S17+S18+S19+S20+S21+S22+S23+S24+S25+S26+S27+S28+S29+S30+S31+S32+S33+S34+S35+S36+S37+S38)_XCZU9-FFVB1156_FAN57MM" is renamed to "XCZU9-FFVB1156_FAN57MM_SOC_1156".
+#245 WARNING(ORCAP-36042): Pin "VCCO_44" is renamed to "VCCO_44#AF14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-2 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#246 WARNING(ORCAP-36042): Pin "VCCO_44" is renamed to "VCCO_44#AJ13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-2 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#247 WARNING(ORCAP-36042): Pin "VCCO_47" is renamed to "VCCO_47#E21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-3 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#248 WARNING(ORCAP-36042): Pin "VCCO_47" is renamed to "VCCO_47#H20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-3 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#249 WARNING(ORCAP-36042): Pin "VCCO_48" is renamed to "VCCO_48#G17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-4 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#250 WARNING(ORCAP-36042): Pin "VCCO_48" is renamed to "VCCO_48#J18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-4 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#251 WARNING(ORCAP-36042): Pin "VCCO_49" is renamed to "VCCO_49#E16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-5 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#252 WARNING(ORCAP-36042): Pin "VCCO_49" is renamed to "VCCO_49#F14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-5 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#253 WARNING(ORCAP-36042): Pin "VCCO_50" is renamed to "VCCO_50#G12" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-6 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#254 WARNING(ORCAP-36042): Pin "VCCO_50" is renamed to "VCCO_50#J13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-6 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#255 WARNING(ORCAP-36042): Pin "VCCO_64" is renamed to "VCCO_64#AJ8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-7 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#256 WARNING(ORCAP-36042): Pin "VCCO_64" is renamed to "VCCO_64#AK11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-7 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#257 WARNING(ORCAP-36042): Pin "VCCO_64" is renamed to "VCCO_64#AL9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-7 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#258 WARNING(ORCAP-36042): Pin "VCCO_65" is renamed to "VCCO_65#AD8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-8 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#259 WARNING(ORCAP-36042): Pin "VCCO_65" is renamed to "VCCO_65#AF9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-8 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#260 WARNING(ORCAP-36042): Pin "VCCO_65" is renamed to "VCCO_65#AG7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-8 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#261 WARNING(ORCAP-36042): Pin "VCCO_66" is renamed to "VCCO_66#AA9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-9 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#262 WARNING(ORCAP-36042): Pin "VCCO_66" is renamed to "VCCO_66#W8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-9 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#263 WARNING(ORCAP-36042): Pin "VCCO_66" is renamed to "VCCO_66#Y11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-9 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#264 WARNING(ORCAP-36042): Pin "VCCO_67" is renamed to "VCCO_67#P8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-10 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#265 WARNING(ORCAP-36042): Pin "VCCO_67" is renamed to "VCCO_67#T9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-10 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#266 WARNING(ORCAP-36042): Pin "VCCO_67" is renamed to "VCCO_67#U7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-10 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#267 WARNING(ORCAP-36042): Pin "VCCO_PSIO0_500" is renamed to "VCCO_PSIO0_500#AE16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-17 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#268 WARNING(ORCAP-36042): Pin "VCCO_PSIO0_500" is renamed to "VCCO_PSIO0_500#AG17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-17 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#269 WARNING(ORCAP-36042): Pin "VCCO_PSIO0_500" is renamed to "VCCO_PSIO0_500#AK16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-17 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#270 WARNING(ORCAP-36042): Pin "VCCO_PSIO1_501" is renamed to "VCCO_PSIO1_501#L24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-18 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#271 WARNING(ORCAP-36042): Pin "VCCO_PSIO1_501" is renamed to "VCCO_PSIO1_501#M22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-18 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#272 WARNING(ORCAP-36042): Pin "VCCO_PSIO2_502" is renamed to "VCCO_PSIO2_502#D23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-19 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#273 WARNING(ORCAP-36042): Pin "VCCO_PSIO2_502" is renamed to "VCCO_PSIO2_502#F24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-19 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#274 WARNING(ORCAP-36042): Pin "VCCO_PSIO2_502" is renamed to "VCCO_PSIO2_502#G22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-19 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#275 WARNING(ORCAP-36042): Pin "VCCO_PSIO3_503" is renamed to "VCCO_PSIO3_503#T24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-20 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#276 WARNING(ORCAP-36042): Pin "VCCO_PSIO3_503" is renamed to "VCCO_PSIO3_503#U22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-20 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#277 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AN30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#278 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AN25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#279 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AL29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#280 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AL24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#281 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AJ28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#282 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AJ24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#283 WARNING(ORCAP-36042): Pin "VCCO_PSDDR_504" is renamed to "VCCO_PSDDR_504#AG27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-21 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#284 WARNING(ORCAP-36042): Pin "MGTAVCC_L" is renamed to "MGTAVCC_L#R29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-23 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#285 WARNING(ORCAP-36042): Pin "MGTAVCC_L" is renamed to "MGTAVCC_L#P28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-23 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#286 WARNING(ORCAP-36042): Pin "MGTAVCC_L" is renamed to "MGTAVCC_L#L29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-23 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#287 WARNING(ORCAP-36042): Pin "MGTAVCC_L" is renamed to "MGTAVCC_L#H27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-23 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#288 WARNING(ORCAP-36042): Pin "MGTAVCC_L" is renamed to "MGTAVCC_L#G29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-23 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#289 WARNING(ORCAP-36042): Pin "MGTAVCC_L" is renamed to "MGTAVCC_L#F28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-23 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#290 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#K8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#291 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#G6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#292 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#E5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#293 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#D7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#294 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#C6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#295 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#B8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#296 WARNING(ORCAP-36042): Pin "MGTAVCC_R" is renamed to "MGTAVCC_R#A10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-24 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#297 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#P31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#298 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#N30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#299 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#M32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#300 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#K31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#301 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#J30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#302 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#H32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#303 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#F31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#304 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#E30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#305 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#D32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#306 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#C29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#307 WARNING(ORCAP-36042): Pin "MGTAVTT_L" is renamed to "MGTAVTT_L#B31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-25 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#308 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#P3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#309 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#N5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#310 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#M4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#311 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#L6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#312 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#K3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#313 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#J5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#314 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#H4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#315 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#F3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#316 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#D4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#317 WARNING(ORCAP-36042): Pin "MGTAVTT_R" is renamed to "MGTAVTT_R#B3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-26 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#318 WARNING(ORCAP-36042): Pin "MGTVCCAUX_L" is renamed to "MGTVCCAUX_L#M27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-27 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#319 WARNING(ORCAP-36042): Pin "MGTVCCAUX_L" is renamed to "MGTVCCAUX_L#K28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-27 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#320 WARNING(ORCAP-36042): Pin "MGTVCCAUX_R" is renamed to "MGTVCCAUX_R#H7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-28 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#321 WARNING(ORCAP-36042): Pin "MGTVCCAUX_R" is renamed to "MGTVCCAUX_R#F8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-28 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#322 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#U14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-29 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#323 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#T14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-29 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#324 WARNING(ORCAP-36042): Pin "VCCAUX_IO" is renamed to "VCCAUX_IO#V14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-30 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#325 WARNING(ORCAP-36042): Pin "VCCAUX_IO" is renamed to "VCCAUX_IO#V13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-30 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#326 WARNING(ORCAP-36042): Pin "VCCAUX_IO" is renamed to "VCCAUX_IO#U13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-30 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#327 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#Y20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#328 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#Y18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#329 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#Y16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#330 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#W19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#331 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#W15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#332 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#V20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#333 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#V16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#334 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#U19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#335 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#U15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#336 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#T20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#337 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#T16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#338 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#339 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#340 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#341 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#342 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#343 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#344 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#345 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#N19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#346 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#N17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#347 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#N15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#348 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#349 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#350 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#351 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AC19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#352 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AC17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#353 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AC15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#354 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AB20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#355 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AB18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#356 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AB16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#357 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AA19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#358 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AA17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#359 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#AA15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-31 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#360 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#Y14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-32 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#361 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#W14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-32 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#362 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#AC14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-32 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#363 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#AB14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-32 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#364 WARNING(ORCAP-36042): Pin "VCCINT_IO" is renamed to "VCCINT_IO#Y13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-33 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#365 WARNING(ORCAP-36042): Pin "VCCINT_IO" is renamed to "VCCINT_IO#AC13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-33 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#366 WARNING(ORCAP-36042): Pin "VCCINT_IO" is renamed to "VCCINT_IO#AB13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-33 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#367 WARNING(ORCAP-36042): Pin "VCCINT_IO" is renamed to "VCCINT_IO#AA13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-33 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#368 WARNING(ORCAP-36042): Pin "PS_MGTRAVCC" is renamed to "PS_MGTRAVCC#Y27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-34 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#369 WARNING(ORCAP-36042): Pin "PS_MGTRAVCC" is renamed to "PS_MGTRAVCC#W30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-34 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#370 WARNING(ORCAP-36042): Pin "PS_MGTRAVCC" is renamed to "PS_MGTRAVCC#V28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-34 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#371 WARNING(ORCAP-36042): Pin "PS_MGTRAVCC" is renamed to "PS_MGTRAVCC#AA29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-34 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#372 WARNING(ORCAP-36042): Pin "PS_MGTRAVTT" is renamed to "PS_MGTRAVTT#Y31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-35 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#373 WARNING(ORCAP-36042): Pin "PS_MGTRAVTT" is renamed to "PS_MGTRAVTT#V32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-35 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#374 WARNING(ORCAP-36042): Pin "PS_MGTRAVTT" is renamed to "PS_MGTRAVTT#AB32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-35 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#375 WARNING(ORCAP-36042): Pin "VCC_PSPLL" is renamed to "VCC_PSPLL#W25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#376 WARNING(ORCAP-36042): Pin "VCC_PSPLL" is renamed to "VCC_PSPLL#W24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#377 WARNING(ORCAP-36042): Pin "VCC_PSPLL" is renamed to "VCC_PSPLL#W22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#378 WARNING(ORCAP-36042): Pin "VCC_PSINTLP" is renamed to "VCC_PSINTLP#AC23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#379 WARNING(ORCAP-36042): Pin "VCC_PSINTLP" is renamed to "VCC_PSINTLP#AC22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#380 WARNING(ORCAP-36042): Pin "VCC_PSINTLP" is renamed to "VCC_PSINTLP#AC21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#381 WARNING(ORCAP-36042): Pin "VCC_PSINTLP" is renamed to "VCC_PSINTLP#AB23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#382 WARNING(ORCAP-36042): Pin "VCC_PSINTLP" is renamed to "VCC_PSINTLP#AB21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#383 WARNING(ORCAP-36042): Pin "VCC_PSINTLP" is renamed to "VCC_PSINTLP#AA21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#384 WARNING(ORCAP-36042): Pin "VCC_PSINTFP_DDR" is renamed to "VCC_PSINTFP_DDR#AE25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#385 WARNING(ORCAP-36042): Pin "VCC_PSINTFP_DDR" is renamed to "VCC_PSINTFP_DDR#AE24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#386 WARNING(ORCAP-36042): Pin "VCC_PSINTFP_DDR" is renamed to "VCC_PSINTFP_DDR#AD24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#387 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AE23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#388 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AE22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#389 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AD26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#390 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AD25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#391 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AD22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#392 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AD21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#393 WARNING(ORCAP-36042): Pin "VCC_PSINTFP" is renamed to "VCC_PSINTFP#AC24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#394 WARNING(ORCAP-36042): Pin "VCC_PSDDR_PLL" is renamed to "VCC_PSDDR_PLL#Y25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#395 WARNING(ORCAP-36042): Pin "VCC_PSDDR_PLL" is renamed to "VCC_PSDDR_PLL#Y24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#396 WARNING(ORCAP-36042): Pin "VCC_PSAUX" is renamed to "VCC_PSAUX#Y23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#397 WARNING(ORCAP-36042): Pin "VCC_PSAUX" is renamed to "VCC_PSAUX#Y22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#398 WARNING(ORCAP-36042): Pin "VCC_PSAUX" is renamed to "VCC_PSAUX#AA25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#399 WARNING(ORCAP-36042): Pin "VCC_PSAUX" is renamed to "VCC_PSAUX#AA23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#400 WARNING(ORCAP-36042): Pin "VCC_PSADC" is renamed to "VCC_PSADC#AC26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#401 WARNING(ORCAP-36042): Pin "VCC_PSADC" is renamed to "VCC_PSADC#AB25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#402 WARNING(ORCAP-36042): Pin "GND_PSADC" is renamed to "GND_PSADC#AC25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#403 WARNING(ORCAP-36042): Pin "GND_PSADC" is renamed to "GND_PSADC#AB24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-36 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#404 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#405 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#406 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#407 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#408 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#409 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#410 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#411 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#412 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#413 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#414 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#415 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#416 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#417 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#418 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#419 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#420 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#421 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#422 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#423 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#424 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#425 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#426 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#427 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#428 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#429 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#430 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#431 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#432 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#433 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#434 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#435 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#436 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#437 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#438 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#439 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#440 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#441 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#442 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#443 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#444 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#445 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#446 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#447 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AP34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#448 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AP28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#449 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AP23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#450 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AP13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#451 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AN5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#452 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AN20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#453 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AN15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#454 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AN10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#455 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#456 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#457 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#458 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#459 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#460 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#461 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AM12" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#462 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AL4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#463 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AL34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#464 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AL19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#465 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AL14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#466 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AK6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#467 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AK31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#468 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AK26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#469 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AK21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#470 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AJ33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#471 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AJ3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#472 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AJ23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#473 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AJ18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#474 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AH5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#475 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AH30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#476 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AH25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#477 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AH20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#478 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AH15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#479 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AH10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#480 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AG32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#481 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AG22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#482 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AG2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#483 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AG12" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#484 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AF4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#485 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AF34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#486 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AF29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#487 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AF24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#488 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AF19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#489 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AE6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#490 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AE31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#491 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AE26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#492 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AE21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#493 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AE11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#494 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AD3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#495 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AD23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#496 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AD13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#497 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#498 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#499 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#500 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#501 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#502 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#503 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#504 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#505 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#506 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#507 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#508 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#509 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AC10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#510 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#511 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#512 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#513 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#514 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB22" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#515 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#516 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#517 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#518 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#519 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB12" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#520 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#521 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#522 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#523 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#524 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#525 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#526 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#527 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#528 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#529 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#530 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#531 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#532 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#533 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#534 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A24" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#535 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#536 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#537 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#538 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#539 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-37 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#540 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#541 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#542 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#543 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#544 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#545 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#546 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#547 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#548 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#549 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#550 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#551 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#552 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#553 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#554 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#555 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#556 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#557 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#558 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#559 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#560 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#561 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V25" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#562 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#563 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#564 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#565 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#566 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#567 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#568 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#569 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#570 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#571 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#572 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#573 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#574 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U12" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#575 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#576 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#577 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#578 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#579 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#580 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#581 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#582 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#583 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#584 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#585 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#586 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#587 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#588 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#589 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#590 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#591 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#592 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#593 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#594 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#595 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#596 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#597 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#598 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#599 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#600 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#601 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#602 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#603 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#604 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#605 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#606 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#607 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#608 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#609 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P13" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#610 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#611 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#612 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#613 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#614 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#615 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#616 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N20" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#617 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#618 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N18" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#619 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N16" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#620 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N10" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#621 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#622 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#623 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#624 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#625 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#626 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#627 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#628 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#629 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M19" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#630 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M17" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#631 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M12" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#632 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#633 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#634 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#635 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#636 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#637 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#638 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#639 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L14" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#640 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#641 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#642 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#643 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K4" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#644 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K32" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#645 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K27" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#646 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#647 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K21" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#648 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K11" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#649 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#650 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J6" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#651 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#652 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#653 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J29" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#654 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#655 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J23" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#656 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#657 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#658 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#659 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H8" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#660 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H31" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#661 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H3" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#662 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H28" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#663 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#664 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H15" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#665 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#666 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G5" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#667 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G34" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#668 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G33" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#669 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G30" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#670 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G26" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#671 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G2" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#672 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G1" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#673 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F9" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#674 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F7" as visible power pin of same name already exists in Package XCZU9-FFVB1156_FAN57MM-38 , U1-1: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (1.30, 0.60).
+#675 WARNING(ORCAP-36006): Part Name "MPM3690GBF-30B-T_BGA_MPM3690-50A-B_MNP_MPM3690GBF-30B-T" is renamed to "MPM3690GBF-30B-T_BGA_MPM3690-50".
+#676 WARNING(ORCAP-36006): Part Name "TPS22920YZPRB_BGA8C50P2X4_90X190X50_TPS22920YZPRB" is renamed to "TPS22920YZPRB_BGA8C50P2X4_90X19".
+#677 WARNING(ORCAP-36006): Part Name "TPS6508640RSKT_QFN40P800X800-65NX570_TPS6508640RSKT" is renamed to "TPS6508640RSKT_QFN40P800X800-65".
+#678 WARNING(ORCAP-36006): Part Name "FLASH_N25Q128A13ESE40F_0_SOIC127P790X170-8N_N25Q128A13ESE40F" is renamed to "FLASH_N25Q128A13ESE40F_0_SOIC12".
+#679 WARNING(ORCAP-36006): Part Name "EMMC_THGBMFG6C1LBAIL_EMMC_BGA153TO138_50P_1300X1150_EMMC_THGBMFG6C1LBAIL" is renamed to "EMMC_THGBMFG6C1LBAIL_EMMC_BGA15".
+#680 WARNING(ORCAP-36006): Part Name "TPS3801E18DCKR_SOT65P210X110-5N_TPS3801E18DCKR" is renamed to "TPS3801E18DCKR_SOT65P210X110-5N".
+#681 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package TPS3801E18DCKR , U5: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (3.40, 6.35).
+#682 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package TPS3801E18DCKR , U5: SCHEMATIC1, SCH07_PS_CONFIG_JTAG (3.40, 6.35).
+#683 WARNING(ORCAP-36006): Part Name "MAX6657MSA_SO8_SOIC127P600X500-8N_MAX6657MSA" is renamed to "MAX6657MSA_SO8_SOIC127P600X500-".
+#684 WARNING(ORCAP-36006): Part Name "TCA9803DGK_DGK0008A_L_TCA9803DGK" is renamed to "TCA9803DGK_DGK0008A_L_TCA9803DG".
+#685 WARNING(ORCAP-36006): Part Name "TPS51200DRCR_TPS51200DRCR_TPS51200DRCR" is renamed to "TPS51200DRCR_TPS51200DRCR_TPS51".
+#686 WARNING(ORCAP-36006): Part Name "SPX3819M5-2-5_SOT-23_SPX3819M5-2-5" is renamed to "SPX3819M5-2-5_SOT-23_SPX3819M5-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\WORKSPACE\ZBOARD\MS-ZU9\01-DEV\PCB\NETLIST/pstchip.dat
+
+Loading... D:\WORKSPACE\ZBOARD\MS-ZU9\01-DEV\PCB\NETLIST/pstchip.dat
+
+Loading... D:\WORKSPACE\ZBOARD\MS-ZU9\01-DEV\PCB\NETLIST/pstxprt.dat
+
+Loading... D:\WORKSPACE\ZBOARD\MS-ZU9\01-DEV\PCB\NETLIST/pstxnet.dat
+packaging the design view...

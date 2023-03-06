@@ -1,0 +1,179 @@
+LISTING: 1 element(s)
+
+       < COMPONENT INSTANCE >
+
+  Reference Designator: J1
+  Package Symbol:       ERM5-075-XX_X-X-DV
+
+  Component Class:      IC
+  Device Type:          ERM5-075-05.0_L-DV_ERM5-075-XX_
+    Value:              ERM5-075-02.0-L-DV
+
+  Placement Status:     PLACED
+    origin-xy:         (-1440.00 -900.00) 
+    rotation:           90.000  degrees
+    mirrored
+
+  Function(s):
+    Designator: TF-4122
+    Type:       ERM5-075-05.0_L-DV_ERM5-075-XX_
+    Pin(s):     151, 152, 22, 24, 25...
+
+  Properties attached to component definition
+    VALUE             = ERM5-075-02.0-L-DV
+
+  Pin IO Information:
+    Pin     Type      SigNoise Model          Net
+    ---     ----      --------------          ---
+    1       UNSPEC                            VCCO_HP_BANK66
+    2       UNSPEC                            VCCO_HP_BANK67
+    3       UNSPEC                            VCCO_HP_BANK66
+    4       UNSPEC                            VCCO_HP_BANK67
+    5       UNSPEC                            BANK67_IO_T2U_N12
+    6       UNSPEC                            BANK67_IO_T0U_N12
+    7       UNSPEC                            BANK67_IO_T3U_N12
+    8       UNSPEC                            BANK67_IO_T1U_N12
+    9       POWER                             GND
+    10      POWER                             GND
+    11      UNSPEC                            BANK67_IO_L17N
+    12      UNSPEC                            BANK67_IO_L19N
+    13      UNSPEC                            BANK67_IO_L17P
+    14      UNSPEC                            BANK67_IO_L19P
+    15      UNSPEC                            BANK67_IO_L20N
+    16      UNSPEC                            BANK67_IO_L15N
+    17      UNSPEC                            BANK67_IO_L20P
+    18      UNSPEC                            BANK67_IO_L15P
+    19      POWER                             GND
+    20      POWER                             GND
+    21      UNSPEC                            BANK67_IO_L16N
+    22      UNSPEC                            BANK67_IO_L18N
+    23      UNSPEC                            BANK67_IO_L16P
+    24      UNSPEC                            BANK67_IO_L18P
+    25      UNSPEC                            BANK67_GC_IO_L14N
+    26      UNSPEC                            BANK67_IO_L23N
+    27      UNSPEC                            BANK67_GC_IO_L14P
+    28      UNSPEC                            BANK67_IO_L23P
+    29      POWER                             GND
+    30      POWER                             GND
+    31      UNSPEC                            BANK67_GC_IO_L12N
+    32      UNSPEC                            BANK67_IO_L21N
+    33      UNSPEC                            BANK67_GC_IO_L12P
+    34      UNSPEC                            BANK67_IO_L21P
+    35      UNSPEC                            BANK67_IO_L10N
+    36      UNSPEC                            BANK67_IO_L22N
+    37      UNSPEC                            BANK67_IO_L10P
+    38      UNSPEC                            BANK67_IO_L22P
+    39      POWER                             GND
+    40      POWER                             GND
+    41      UNSPEC                            BANK67_GC_IO_L11N
+    42      UNSPEC                            BANK67_IO_L4N
+    43      UNSPEC                            BANK67_GC_IO_L11P
+    44      UNSPEC                            BANK67_IO_L4P
+    45      UNSPEC                            BANK67_IO_L9N
+    46      UNSPEC                            BANK67_IO_L6N
+    47      UNSPEC                            BANK67_IO_L9P
+    48      UNSPEC                            BANK67_IO_L6P
+    49      POWER                             GND
+    50      POWER                             GND
+    51      UNSPEC                            BANK67_IO_L7N
+    52      UNSPEC                            BANK67_IO_L8N
+    53      UNSPEC                            BANK67_IO_L7P
+    54      UNSPEC                            BANK67_IO_L8P
+    55      UNSPEC                            BANK67_IO_L3N
+    56      UNSPEC                            BANK67_IO_L5N
+    57      UNSPEC                            BANK67_IO_L3P
+    58      UNSPEC                            BANK67_IO_L5P
+    59      POWER                             GND
+    60      POWER                             GND
+    61      UNSPEC                            BANK67_GC_IO_L13N
+    62      UNSPEC                            BANK67_IO_L2N
+    63      UNSPEC                            BANK67_GC_IO_L13P
+    64      UNSPEC                            BANK67_IO_L2P
+    65      UNSPEC                            BANK67_IO_L1N
+    66      UNSPEC                            BANK67_IO_L24N
+    67      UNSPEC                            BANK67_IO_L1P
+    68      UNSPEC                            BANK67_IO_L24P
+    69      POWER                             GND
+    70      POWER                             GND
+    71      UNSPEC                            
+    72      UNSPEC                            
+    73      UNSPEC                            
+    74      UNSPEC                            
+    75      UNSPEC                            BANK66_GC_IO_L13N
+    76      UNSPEC                            BANK66_IO_L21N
+    77      UNSPEC                            BANK66_GC_IO_L13P
+    78      UNSPEC                            BANK66_IO_L21P
+    79      POWER                             GND
+    80      POWER                             GND
+    81      UNSPEC                            BANK66_IO_L6N
+    82      UNSPEC                            BANK66_IO_L24N
+    83      UNSPEC                            BANK66_IO_L6P
+    84      UNSPEC                            BANK66_IO_L24P
+    85      UNSPEC                            BANK66_IO_L9N
+    86      UNSPEC                            BANK66_GC_IO_L14N
+    87      UNSPEC                            BANK66_IO_L9P
+    88      UNSPEC                            BANK66_GC_IO_L14P
+    89      POWER                             GND
+    90      POWER                             GND
+    91      UNSPEC                            BANK66_GC_IO_L11N
+    92      UNSPEC                            BANK66_IO_L22N
+    93      UNSPEC                            BANK66_GC_IO_L11P
+    94      UNSPEC                            BANK66_IO_L22P
+    95      UNSPEC                            BANK66_IO_L3N
+    96      UNSPEC                            BANK66_IO_L20N
+    97      UNSPEC                            BANK66_IO_L3P
+    98      UNSPEC                            BANK66_IO_L20P
+    99      POWER                             GND
+    100     POWER                             GND
+    101     UNSPEC                            BANK66_IO_L15N
+    102     UNSPEC                            BANK66_IO_L23N
+    103     UNSPEC                            BANK66_IO_L15P
+    104     UNSPEC                            BANK66_IO_L23P
+    105     UNSPEC                            BANK66_IO_L4N
+    106     UNSPEC                            BANK66_IO_L16N
+    107     UNSPEC                            BANK66_IO_L4P
+    108     UNSPEC                            BANK66_IO_L16P
+    109     POWER                             GND
+    110     POWER                             GND
+    111     UNSPEC                            BANK66_GC_IO_L12N
+    112     UNSPEC                            BANK66_IO_L17N
+    113     UNSPEC                            BANK66_GC_IO_L12P
+    114     UNSPEC                            BANK66_IO_L17P
+    115     UNSPEC                            BANK66_IO_L2N
+    116     UNSPEC                            BANK66_IO_L10N
+    117     UNSPEC                            BANK66_IO_L2P
+    118     UNSPEC                            BANK66_IO_L10P
+    119     POWER                             GND
+    120     POWER                             GND
+    121     UNSPEC                            BANK66_IO_L8N
+    122     UNSPEC                            BANK66_IO_L18N
+    123     UNSPEC                            BANK66_IO_L8P
+    124     UNSPEC                            BANK66_IO_L18P
+    125     UNSPEC                            BANK66_IO_L5N
+    126     UNSPEC                            BANK66_IO_L7N
+    127     UNSPEC                            BANK66_IO_L5P
+    128     UNSPEC                            BANK66_IO_L7P
+    129     POWER                             GND
+    130     POWER                             GND
+    131     UNSPEC                            BANK66_IO_L1N
+    132     UNSPEC                            BANK66_IO_L19N
+    133     UNSPEC                            BANK66_IO_L1P
+    134     UNSPEC                            BANK66_IO_L19P
+    135     UNSPEC                            BANK66_IO_T2U_N12
+    136     UNSPEC                            BANK66_IO_T1U_N12
+    137     UNSPEC                            BANK66_IO_T0U_N12
+    138     UNSPEC                            BANK66_IO_T3U_N12
+    139     POWER                             GND
+    140     POWER                             GND
+    141     UNSPEC                            
+    142     UNSPEC                            
+    143     UNSPEC                            
+    144     UNSPEC                            
+    145     UNSPEC                            
+    146     UNSPEC                            
+    147     UNSPEC                            
+    148     UNSPEC                            
+    149     POWER                             GND
+    150     POWER                             GND
+    151     UNSPEC                            
+    152     UNSPEC                            

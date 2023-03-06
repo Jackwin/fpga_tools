@@ -1,0 +1,179 @@
+LISTING: 1 element(s)
+
+       < COMPONENT INSTANCE >
+
+  Reference Designator: J4
+  Package Symbol:       ERM5-075-XX_X-X-DV
+
+  Component Class:      IC
+  Device Type:          ERM5-075-05.0_L-DV_ERM5-075-XX_
+    Value:              ERM5-075-02.0-L-DV
+
+  Placement Status:     PLACED
+    origin-xy:         (1445.00 900.00) 
+    rotation:           90.000  degrees
+    mirrored
+
+  Function(s):
+    Designator: TF-4125
+    Type:       ERM5-075-05.0_L-DV_ERM5-075-XX_
+    Pin(s):     151, 152, 22, 24, 25...
+
+  Properties attached to component definition
+    VALUE             = ERM5-075-02.0-L-DV
+
+  Pin IO Information:
+    Pin     Type      SigNoise Model          Net
+    ---     ----      --------------          ---
+    1       UNSPEC                            SYS_DVDD12V
+    2       UNSPEC                            SYS_DVDD12V
+    3       UNSPEC                            SYS_DVDD12V
+    4       UNSPEC                            SYS_DVDD12V
+    5       UNSPEC                            SYS_DVDD12V
+    6       UNSPEC                            SYS_DVDD12V
+    7       UNSPEC                            SYS_DVDD12V
+    8       UNSPEC                            SYS_DVDD12V
+    9       POWER                             GND
+    10      POWER                             GND
+    11      UNSPEC                            VCCO_HD_BANK47
+    12      UNSPEC                            VCCO_HD_BANK48
+    13      UNSPEC                            VCCO_HD_BANK47
+    14      UNSPEC                            VCCO_HD_BANK48
+    15      UNSPEC                            BANK48_IO_L4P
+    16      UNSPEC                            BANK47_IO_L4P
+    17      UNSPEC                            BANK48_IO_L4N
+    18      UNSPEC                            BANK47_IO_L4N
+    19      POWER                             GND
+    20      POWER                             GND
+    21      UNSPEC                            BANK48_IO_L2P
+    22      UNSPEC                            BANK47_GC_IO_L6P
+    23      UNSPEC                            BANK48_IO_L2N
+    24      UNSPEC                            BANK47_GC_IO_L6N
+    25      UNSPEC                            BANK48_GC_IO_L8P
+    26      UNSPEC                            BANK47_GC_IO_L8P
+    27      UNSPEC                            BANK48_GC_IO_L8N
+    28      UNSPEC                            BANK47_GC_IO_L8N
+    29      POWER                             GND
+    30      POWER                             GND
+    31      UNSPEC                            BANK48_IO_L9P
+    32      UNSPEC                            BANK47_IO_L9P
+    33      UNSPEC                            BANK48_IO_L9N
+    34      UNSPEC                            BANK47_IO_L9N
+    35      UNSPEC                            BANK48_IO_L11P
+    36      UNSPEC                            BANK47_IO_L12P
+    37      UNSPEC                            BANK48_IO_L11N
+    38      UNSPEC                            BANK47_IO_L12N
+    39      POWER                             GND
+    40      POWER                             GND
+    41      UNSPEC                            BANK48_IO_L12P
+    42      UNSPEC                            BANK47_IO_L10P
+    43      UNSPEC                            BANK48_IO_L12N
+    44      UNSPEC                            BANK47_IO_L10N
+    45      UNSPEC                            BANK48_IO_L10P
+    46      UNSPEC                            BANK47_IO_L11P
+    47      UNSPEC                            BANK48_IO_L10N
+    48      UNSPEC                            BANK47_IO_L11N
+    49      POWER                             GND
+    50      POWER                             GND
+    51      UNSPEC                            BANK48_GC_IO_L7P
+    52      UNSPEC                            BANK47_GC_IO_L7P
+    53      UNSPEC                            BANK48_GC_IO_L7N
+    54      UNSPEC                            BANK47_GC_IO_L7N
+    55      UNSPEC                            BANK48_GC_IO_L6P
+    56      UNSPEC                            BANK47_GC_IO_L5P
+    57      UNSPEC                            BANK48_GC_IO_L6N
+    58      UNSPEC                            BANK47_GC_IO_L5N
+    59      POWER                             GND
+    60      POWER                             GND
+    61      UNSPEC                            BANK48_GC_IO_L5P
+    62      UNSPEC                            BANK47_IO_L3P
+    63      UNSPEC                            BANK48_GC_IO_L5N
+    64      UNSPEC                            BANK47_IO_L3N
+    65      UNSPEC                            BANK48_IO_L1P
+    66      UNSPEC                            BANK47_IO_L2P
+    67      UNSPEC                            BANK48_IO_L1N
+    68      UNSPEC                            BANK47_IO_L2N
+    69      POWER                             GND
+    70      POWER                             GND
+    71      UNSPEC                            BANK48_IO_L3P
+    72      UNSPEC                            BANK47_IO_L1P
+    73      UNSPEC                            BANK48_IO_L3N
+    74      UNSPEC                            BANK47_IO_L1N
+    75      UNSPEC                            MGTHRX3_130_N
+    76      UNSPEC                            MGTHTX3_130_N
+    77      UNSPEC                            MGTHRX3_130_P
+    78      UNSPEC                            MGTHTX3_130_P
+    79      POWER                             GND
+    80      POWER                             GND
+    81      UNSPEC                            MGTHRX2_130_N
+    82      UNSPEC                            MGTHTX2_130_N
+    83      UNSPEC                            MGTHRX2_130_P
+    84      UNSPEC                            MGTHTX2_130_P
+    85      UNSPEC                            MGTHRX1_130_N
+    86      UNSPEC                            MGTHTX1_130_N
+    87      UNSPEC                            MGTHRX1_130_P
+    88      UNSPEC                            MGTHTX1_130_P
+    89      POWER                             GND
+    90      POWER                             GND
+    91      UNSPEC                            MGTHRX0_130_N
+    92      UNSPEC                            MGTHTX0_130_N
+    93      UNSPEC                            MGTHRX0_130_P
+    94      UNSPEC                            MGTHTX0_130_P
+    95      UNSPEC                            MGTREFCLK0_130_N
+    96      UNSPEC                            MGTREFCLK1_130_N
+    97      UNSPEC                            MGTREFCLK0_130_P
+    98      UNSPEC                            MGTREFCLK1_130_P
+    99      POWER                             GND
+    100     POWER                             GND
+    101     UNSPEC                            MGTHRX3_129_N
+    102     UNSPEC                            MGTHTX3_129_N
+    103     UNSPEC                            MGTHRX3_129_P
+    104     UNSPEC                            MGTHTX3_129_P
+    105     UNSPEC                            MGTHRX2_129_N
+    106     UNSPEC                            MGTHTX2_129_N
+    107     UNSPEC                            MGTHRX2_129_P
+    108     UNSPEC                            MGTHTX2_129_P
+    109     POWER                             GND
+    110     POWER                             GND
+    111     UNSPEC                            MGTHRX1_129_N
+    112     UNSPEC                            MGTHTX1_129_N
+    113     UNSPEC                            MGTHRX1_129_P
+    114     UNSPEC                            MGTHTX1_129_P
+    115     UNSPEC                            MGTHRX0_129_N
+    116     UNSPEC                            MGTHTX0_129_N
+    117     UNSPEC                            MGTHRX0_129_P
+    118     UNSPEC                            MGTHTX0_129_P
+    119     POWER                             GND
+    120     POWER                             GND
+    121     UNSPEC                            MGTREFCLK1_129_N
+    122     UNSPEC                            MGTREFCLK0_129_N
+    123     UNSPEC                            MGTREFCLK1_129_P
+    124     UNSPEC                            MGTREFCLK0_129_P
+    125     UNSPEC                            MGTHRX3_128_N
+    126     UNSPEC                            MGTHTX3_128_N
+    127     UNSPEC                            MGTHRX3_128_P
+    128     UNSPEC                            MGTHTX3_128_P
+    129     POWER                             GND
+    130     POWER                             GND
+    131     UNSPEC                            MGTHRX2_128_N
+    132     UNSPEC                            MGTHTX2_128_N
+    133     UNSPEC                            MGTHRX2_128_P
+    134     UNSPEC                            MGTHTX2_128_P
+    135     UNSPEC                            MGTHRX1_128_N
+    136     UNSPEC                            MGTHTX1_128_N
+    137     UNSPEC                            MGTHRX1_128_P
+    138     UNSPEC                            MGTHTX1_128_P
+    139     POWER                             GND
+    140     POWER                             GND
+    141     UNSPEC                            MGTHRX0_128_N
+    142     UNSPEC                            MGTHTX0_128_N
+    143     UNSPEC                            MGTHRX0_128_P
+    144     UNSPEC                            MGTHTX0_128_P
+    145     UNSPEC                            MGTREFCLK0_128_N
+    146     UNSPEC                            MGTREFCLK1_128_N
+    147     UNSPEC                            MGTREFCLK0_128_P
+    148     UNSPEC                            MGTREFCLK1_128_P
+    149     POWER                             GND
+    150     POWER                             GND
+    151     UNSPEC                            
+    152     UNSPEC                            
