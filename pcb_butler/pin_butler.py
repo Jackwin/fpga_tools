@@ -62,9 +62,11 @@ def getFPGAPinList(file_name, line_offset):
 
 
 def filterPLDDR(fpga_pin_list):
+    pl_ddr_pin_list = []
     for item in fpga_pin_list:
         if "PL_DDR" in item[-1]:
-            print(item)
+            pl_ddr_pin_list.append(item)
+    return pl_ddr_pin_list
 
 
 '''
@@ -198,7 +200,8 @@ netlist_file = "./mszu9/mszu9-pin.json"
 
 print(LocateIOInformation("./mszu9/netlist-2023-2-25/FPGA.txt"))
 fpga_pin_list = getFPGAPinList("./mszu9/netlist-2023-2-25/FPGA.txt", 3)
-filterPLDDR(fpga_pin_list)
+pl_ddr_pin_list = filterPLDDR(fpga_pin_list)
+print(pl_ddr_pin_list)
 exit()
 
 pin_file_path = './mszu9/netlist-2023-2-25'
