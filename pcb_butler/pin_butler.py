@@ -23,6 +23,50 @@ def stripQuotes(name):
         return name[ind1+1:ind2]
 
 
+"""locate the pin IO information starting line
+Returns:
+    _type_: line number
+    If the return value is zero, there is no "Pin IO information" in the file
+"""
+
+
+def LocateIOInformation(file_name):
+    with open(file_name, 'r', encoding='utf-8') as f:
+        line_number = 1
+        lines = f.readlines()
+        for line in lines:
+            line = line.strip()
+            if line == "Pin IO Information:":
+                return line_number
+            else:
+                line_number = line_number + 1
+    f.close()
+
+
+""" Filter the signals from FPGA
+
+Returns:
+    _type_: _description_
+"""
+
+
+def getFPGAPinList(file_name, line_offset):
+    fpga_pin_list = []
+    line_num = LocateIOInformation(file_name)
+    with open(file_name, 'r', encoding='utf-8') as f:
+        lines = f.readlines()[(line_num + line_offset):]
+        for line in lines:
+            fpga_pin_list.append(line.strip().split())
+        return fpga_pin_list
+    f.close()
+
+
+def filterPLDDR(fpga_pin_list):
+    for item in fpga_pin_list:
+        if "PL_DDR" in item[-1]:
+            print(item)
+
+
 '''
 Get the pin number from a singnal name. For instance, CON4.20 -> 20
 '''
@@ -152,14 +196,20 @@ netlist_file = "./mszu9/mszu9-pin.json"
 
 #save_to_json(netlist_file, nets)
 
-part = "J4"
-# the netlist from pab layout
-target_brd_filename = "J4"
-index = "2"
+print(LocateIOInformation("./mszu9/netlist-2023-2-25/FPGA.txt"))
+fpga_pin_list = getFPGAPinList("./mszu9/netlist-2023-2-25/FPGA.txt", 3)
+filterPLDDR(fpga_pin_list)
+exit()
+
 pin_file_path = './mszu9/netlist-2023-2-25'
-#part = "PL_DDR"
-#target_brd_filename = "FPGA"
-#index = "1"
+# swap connector pin
+#part = "J4"
+#target_brd_filename = "J4"
+#index = "2"
+# swap DDR
+part = "PL_DDR"
+target_brd_filename = "FPGA"
+index = "1"
 
 # TODO: Add DDR signal filtering
 source_pin_file = part + "_source_pin_part_" + index + ".txt"
