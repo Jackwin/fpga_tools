@@ -1,3 +1,7 @@
+## Process mode
+
+The processing pipeline works like a restaurant where all the manufacturing functionalities are defined in the cook, and the services are provided by the butlers.
+
 ## Parse pstsnet
 
 `parse_pstxnet_to_json` is used to parse the cadence pstxnet file and generate the pin along with the signals attached to.

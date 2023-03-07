@@ -105,12 +105,14 @@ class ConstraintCook(object):
     NET     "PL_DDR_DQ28"      LOC = "A2"
     '''
 
-    def gen_ddr_pin_assignment(self, file, prefix):
+    def gen_ddr_pin_assignment(self, file, path, prefix):
         self.get_raw_ddr_net_and_pin(file, prefix)
         self.refine_ddr_net_and_pin()
-        with open(prefix+".ucf", 'w') as f:
+        file_path = os.path.join(path, prefix+".ucf")
+        print(file_path)
+        with open(file_path, 'w') as f:
             for k in self.refined_ddr_net_and_pin_list:
-                f.write(self.ddr_pin_assignment_format(k[0], k[1]))
+                f.write(self.ddr_pin_assignment_format(k[0], k[-1]))
             f.close()
             print("---- The DDR constraint file has been written to " + prefix+".ucf")
 

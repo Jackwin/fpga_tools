@@ -234,14 +234,13 @@ print(LocateIOInformation("./mszu9/netlist-2023-2-25/FPGA.txt"))
 original_fpga_pin_list = getFPGAPinList(
     "./mszu9/netlist-2023-2-25/FPGA_OLD.txt", 3)
 original_ddr_signal_pin_dict = createSignalPinDict(
-    original_fpga_pin_list, "PL_DDR", True)
+    original_fpga_pin_list, "PS_DDR", True)
 original_pl_ddr_pin = getPinLocation(
-    original_ddr_signal_pin_dict, "./mszu9/netlist-2023-2-25/PL_DDR_source_pin_part_2.txt")
+    original_ddr_signal_pin_dict, "./mszu9/netlist-2023-2-25/PS_DDR_source_pin_part_1.txt")
 
-# TODO  swapped signals assignment
 swapped_fpga_pin_list = getFPGAPinList("./mszu9/netlist-2023-2-25/FPGA.txt", 3)
 swapped_ddr_pin_signal_dict = createSignalPinDict(
-    swapped_fpga_pin_list, "PL_DDR", False)
+    swapped_fpga_pin_list, "PS_DDR", False)
 
 swapped_signal_list = getSignals(
     original_pl_ddr_pin, swapped_ddr_pin_signal_dict)
@@ -252,10 +251,12 @@ swapped_signal_list = getSignals(
 print(original_pl_ddr_pin)
 print(swapped_signal_list)
 
-with open("./mszu9/netlist-2023-2-25/PL_DDR_target_pin_part_2.txt", "w") as f:
+with open("./mszu9/netlist-2023-2-25/PS_DDR_target_pin_part_1.txt", "w") as f:
     for item in swapped_signal_list:
         f.write(item+'\r\n')
     f.close()
+
+# TODO  add pin cook
 exit()
 
 pin_file_path = './mszu9/netlist-2023-2-25'
