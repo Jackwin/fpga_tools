@@ -43,3 +43,9 @@ pin_file_path = './mszu9/netlist-2023-2-25'
 ```
 4. Copy the signals generated in the step 3 and paste(shift+insert) back to the properties in step 2.
 
+## DDR pin swap
+The procedure of swapping PL DDR pins
+1. Get the PL DDR signals of FPGA from the original schematic
+2. According to the signals, get the pin location in FPGA via the `pin_bulter.py`
+3. Based on the pin location, get the corresponding signals
+4. Paste the signals to the schematic manually

@@ -60,13 +60,45 @@ def getFPGAPinList(file_name, line_offset):
         return fpga_pin_list
     f.close()
 
+# TODO add prefix
+    """Create a dictionary in <signal, pin> or <pin, signal>
+    singal_pin_bool = True: <signal, pin>
+    singal_pin_bool = False: <pin, signal>
+    """
 
-def filterPLDDR(fpga_pin_list):
+
+def createSignalPinDict(fpga_pin_list, prefix, signal_pin_bool='True'):
     pl_ddr_pin_list = []
     for item in fpga_pin_list:
-        if "PL_DDR" in item[-1]:
+        if prefix in item[-1]:
             pl_ddr_pin_list.append(item)
-    return pl_ddr_pin_list
+    signal_pin_dict = {}
+    for item in pl_ddr_pin_list:
+        if (signal_pin_bool):
+            signal_pin_dict[item[-1]] = item[0]
+        else:
+            signal_pin_dict[item[0]] = item[-1]
+
+    return signal_pin_dict
+
+
+def getPinLocation(signal_pin_dict, ddr_signals):
+    with open(ddr_signals, 'r') as f:
+        lines = f.readlines()
+        pin_list = []
+        for line in lines:
+            signal = line.strip()
+            pin_list.append(signal_pin_dict.get(signal))
+    f.close()
+    return pin_list
+
+
+def getSignals(pin_list, pin_signals_dict):
+    signal_list = []
+    for item in pin_list:
+        signal_list.append(pin_signals_dict.get(item))
+
+    return signal_list
 
 
 '''
@@ -199,9 +231,31 @@ netlist_file = "./mszu9/mszu9-pin.json"
 #save_to_json(netlist_file, nets)
 
 print(LocateIOInformation("./mszu9/netlist-2023-2-25/FPGA.txt"))
-fpga_pin_list = getFPGAPinList("./mszu9/netlist-2023-2-25/FPGA.txt", 3)
-pl_ddr_pin_list = filterPLDDR(fpga_pin_list)
-print(pl_ddr_pin_list)
+original_fpga_pin_list = getFPGAPinList(
+    "./mszu9/netlist-2023-2-25/FPGA_OLD.txt", 3)
+original_ddr_signal_pin_dict = createSignalPinDict(
+    original_fpga_pin_list, "PL_DDR", True)
+original_pl_ddr_pin = getPinLocation(
+    original_ddr_signal_pin_dict, "./mszu9/netlist-2023-2-25/PL_DDR_source_pin_part_2.txt")
+
+# TODO  swapped signals assignment
+swapped_fpga_pin_list = getFPGAPinList("./mszu9/netlist-2023-2-25/FPGA.txt", 3)
+swapped_ddr_pin_signal_dict = createSignalPinDict(
+    swapped_fpga_pin_list, "PL_DDR", False)
+
+swapped_signal_list = getSignals(
+    original_pl_ddr_pin, swapped_ddr_pin_signal_dict)
+
+
+#pl_ddr_pin_list = filterPLDDR(fpga_pin_list)
+# print(pl_ddr_pin_list)
+print(original_pl_ddr_pin)
+print(swapped_signal_list)
+
+with open("./mszu9/netlist-2023-2-25/PL_DDR_target_pin_part_2.txt", "w") as f:
+    for item in swapped_signal_list:
+        f.write(item+'\r\n')
+    f.close()
 exit()
 
 pin_file_path = './mszu9/netlist-2023-2-25'
